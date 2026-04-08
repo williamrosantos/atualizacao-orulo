@@ -20,10 +20,13 @@ import os
 import logging
 from datetime import datetime
 from pathlib import Path
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # ─── CONFIGURAÇÃO ─────────────────────────────────────────────────────────────
-# Credenciais lidas de variáveis de ambiente (GitHub Secrets)
-# Para rodar localmente: set ORULO_CLIENT_ID=... e set ORULO_CLIENT_SECRET=... no terminal
+# Localmente: credenciais lidas do arquivo .env
+# No GitHub Actions: lidas dos Secrets
 CLIENT_ID     = os.environ.get("ORULO_CLIENT_ID")
 CLIENT_SECRET = os.environ.get("ORULO_CLIENT_SECRET")
 
