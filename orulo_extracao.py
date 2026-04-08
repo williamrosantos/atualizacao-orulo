@@ -18,6 +18,7 @@ import requests
 import pandas as pd
 import os
 import logging
+import time
 from datetime import datetime
 from pathlib import Path
 from dotenv import load_dotenv
@@ -160,8 +161,12 @@ def buscar_detalhe(token, building_id):
         )
         if response.status_code == 200:
             return response.json()
-    except (requests.exceptions.Timeout, requests.exceptions.ConnectionError):
-        pass
+        else:
+            log.warning(f"Detalhe {building_id}: HTTP {response.status_code}")
+    except requests.exceptions.Timeout:
+        log.warning(f"Detalhe {building_id}: timeout")
+    except requests.exceptions.ConnectionError as e:
+        log.warning(f"Detalhe {building_id}: erro de conexão: {e}")
     return {}
 
 
@@ -169,9 +174,13 @@ def buscar_detalhe(token, building_id):
 def buildings_para_df(buildings, city, state, token):
     registros = []
     total = len(buildings)
+    sem_detalhe = 0
     for i, b in enumerate(buildings, 1):
         print(f"    Detalhando {i}/{total}...", end="\r")
+        time.sleep(0.3)  # evitar rate limiting
         detalhe = buscar_detalhe(token, b.get("id"))
+        if not detalhe:
+            sem_detalhe += 1
         address = b.get("address") or {}
         registros.append({
             "id":                   b.get("id"),
@@ -204,6 +213,9 @@ def buildings_para_df(buildings, city, state, token):
             "data_extracao":        datetime.now().strftime("%Y-%m-%d"),
         })
     print()
+    if sem_detalhe:
+        print(f"    ⚠️  {sem_detalhe}/{total} sem detalhe (rate limit ou erro)")
+        log.warning(f"{sem_detalhe}/{total} buildings sem detalhe em {city}")
     return pd.DataFrame(registros)
 
 
