@@ -1,285 +1,285 @@
-﻿id,nome,cidade,estado,bairro,status,fase,preco_minimo,preco_m2_privativo,area_minima_m2,area_maxima_m2,quartos_min,quartos_max,suites_min,suites_max,vagas_min,vagas_max,andares,aptos_por_andar,estoque,finalidade,construtora,portfolio,atualizado_em,data_extracao
-69089,Porto Bella Vista,Ponta Grossa,PR,Colônia Dona Luíza,Em construção,Em construção,234000.0,5527,42.34,46.47,2,2,0,0,1,1,,,27,Residencial,Rottas Construtora,Lançamento,06/04/2026 22:21:01,2026-04-08
-69059,Campobello Gold - Fase 2,Ponta Grossa,PR,Colônia Dona Luíza,Em construção,Em construção,215000.0,5078,42.34,46.47,2,2,0,0,1,1,,,11,Residencial,Rottas Construtora,Lançamento,06/04/2026 22:10:42,2026-04-08
-80191,Izar - Breve Lançamento,Curitiba,PR,Bigorrilho,Em construção,Lançamento,0.1,0,93.5,193.29,2,3,2,3,1,3,10.0,2.0,1,Residencial,AGL,Lançamento,06/04/2026 09:41:51,2026-04-08
-24892,Trebbiano Residencial - Fase 1,Curitiba,PR,Campo Comprido,Pronto novo,Pronto novo,1139282.81,13074,74.57,142.54,2,3,1,3,1,2,12.0,6.0,14,Residencial,Equilíbrio,Lançamento,02/04/2026 01:25:14,2026-04-08
-63517,Porto Alto,Curitiba,PR,Mercês,Em construção,Em construção,1551185.08,16931,91.62,267.44,3,3,1,3,2,3,4.0,6.0,15,Residencial,Construtora Pessoa,Lançamento,24/03/2026 14:34:52,2026-04-08
-16616,Condomínio Mood,Curitiba,PR,Bacacheri,Pronto novo,Pronto novo,970842.0,11808,82.22,212.49,2,3,1,2,1,3,6.0,8.0,16,Residencial,Coral Engenharia,Lançamento,08/04/2026 10:46:51,2026-04-08
-22369,Allure Residencial,Curitiba,PR,Boa Vista,Pronto novo,Pronto novo,595676.82,9591,62.11,123.57,2,2,1,2,1,2,8.0,6.0,6,Residencial,Coral Engenharia,Lançamento,08/04/2026 10:46:47,2026-04-08
-77172,Quintal do Paiol,Curitiba,PR,Rebouças,Em construção,Lançamento,230000.0,10227,22.49,25.28,1,1,0,0,0,0,4.0,13.0,38,Residencial,Reus Construtora,Lançamento,08/04/2026 10:34:32,2026-04-08
-70845,Civitas - Studios,Curitiba,PR,Centro Cívico,Em construção,Em construção,344357.03,16905,20.37,45.09,1,1,0,0,0,0,10.0,16.0,18,Residencial,Blue,Lançamento,08/04/2026 10:34:27,2026-04-08
-63588,Aya Carlos de Carvalho - Residencial,Curitiba,PR,Centro,Em construção,Em construção,418164.76,16909,24.28,49.25,1,1,0,1,0,0,32.0,38.0,271,Residencial,Blue,Lançamento,08/04/2026 10:32:20,2026-04-08
-73318,Aya Amintas - Residencial,Curitiba,PR,Centro,Em construção,Em construção,352382.55,14034,23.84,50.52,1,2,0,2,0,0,29.0,19.0,143,Residencial,Blue,Lançamento,08/04/2026 10:29:55,2026-04-08
-51859,Aya - Residencial,Curitiba,PR,Centro,Em construção,Em construção,348000.0,15683,22.19,54.54,1,2,0,2,0,0,35.0,21.0,39,Residencial,Blue,Lançamento,08/04/2026 10:26:55,2026-04-08
-80094,Solare Di Vicenza,Curitiba,PR,Bacacheri,Em construção,Em construção,755140.72,10944,69.0,184.26,2,3,1,3,1,1,,,32,Residencial,MDI Construtora,Lançamento,08/04/2026 10:14:05,2026-04-08
-80136,Solare Di Veneza,Curitiba,PR,Bacacheri,Pronto novo,Pronto novo,769788.52,11663,66.0,190.0,2,3,1,3,1,1,8.0,6.0,16,Residencial,MDI Construtora,Lançamento,08/04/2026 10:13:29,2026-04-08
-74356,Platea 19,Curitiba,PR,Centro,Em construção,Em construção,342267.86,14927,22.93,52.27,1,1,0,0,0,0,16.0,8.0,24,Residencial,108 Incorporações,Lançamento,08/04/2026 10:06:51,2026-04-08
-23404,Condomínio Colinas do Norte,Curitiba,PR,Santa Cândida,Pronto novo,Pronto novo,373398.94,7769,45.19,48.06,2,2,0,0,1,1,4.0,8.0,3,Residencial,Treèle,Lançamento,08/04/2026 09:30:06,2026-04-08
-69427,Bioma,Curitiba,PR,Ahú,Em construção,Em construção,1348089.17,14576,90.0,309.44,2,4,1,4,2,3,8.0,8.0,24,Residencial,ATR Incorporadora PR,Lançamento,08/04/2026 09:21:46,2026-04-08
-61398,N.A.U Juvevê,Curitiba,PR,Juvevê,Em construção,Em construção,2028000.0,14379,136.83,243.01,3,3,3,3,2,3,8.0,4.0,17,Residencial,Maken,Lançamento,08/04/2026 09:21:32,2026-04-08
-62200,Atmos,Curitiba,PR,Centro,Em construção,Em construção,400916.88,14257,28.12,40.45,1,2,0,0,0,0,15.0,28.0,3,Residencial,ATR Incorporadora PR,Lançamento,08/04/2026 09:19:34,2026-04-08
-79265,Mavie,Curitiba,PR,Boa Vista,Em construção,Lançamento,498404.59,8843,56.36,77.77,2,3,1,1,1,2,8.0,8.0,52,Residencial,Coral Engenharia,Lançamento,08/04/2026 09:09:41,2026-04-08
-48851,Mytá,Curitiba,PR,Bigorrilho,Em construção,Em construção,2881918.09,19493,147.84,235.89,3,3,3,3,2,2,7.0,5.0,6,Residencial,ALTMA,Lançamento,08/04/2026 09:05:53,2026-04-08
-71776,Bliss Cuore - Fase 1,Curitiba,PR,Hauer,Em construção,Em construção,546975.0,8792,62.21,62.21,2,2,1,1,1,1,8.0,4.0,48,Residencial,Incorporare,Lançamento,08/04/2026 09:05:12,2026-04-08
-63155,New Place Pinheirinho,Curitiba,PR,Pinheirinho,Pronto novo,Pronto novo,388353.95,2551,152.23,253.35,0,0,0,0,0,0,,,18,Residencial,Incorporare,Lançamento,08/04/2026 09:00:25,2026-04-08
-72205,Bliss Cuore - Fase 2,Curitiba,PR,Hauer,Em construção,Em construção,541450.0,8704,62.21,75.14,2,3,1,1,1,1,8.0,4.0,59,Residencial,Incorporare,Lançamento,08/04/2026 08:58:01,2026-04-08
-72166,New Place Pinheirinho II,Curitiba,PR,Pinheirinho,Em construção,Em construção,285977.63,1575,147.0,284.1,0,0,0,0,0,0,,,21,Residencial,Incorporare,Lançamento,08/04/2026 08:52:31,2026-04-08
-69234,Cosmo Hype Living,Curitiba,PR,Alto da Rua XV,Em construção,Em construção,411900.0,15433,26.23,70.97,1,3,0,2,0,2,7.0,22.0,37,Residencial,Hype,Lançamento,08/04/2026 08:48:43,2026-04-08
-69898,Core Palácio,Curitiba,PR,Centro,Em construção,Em construção,353121.33,15722,22.46,53.8,1,2,0,1,0,1,19.0,26.0,137,Residencial,Gadens,Lançamento,08/04/2026 08:45:04,2026-04-08
-70491,Casa Jobim,Curitiba,PR,Campina do Siqueira,Em construção,Em construção,2313490.0,19631,117.85,214.58,2,3,2,3,2,3,32.0,3.0,30,Residencial,GT Building,Lançamento,08/04/2026 08:45:03,2026-04-08
-70152,Turin,Curitiba,PR,Batel,Em construção,Em construção,712870.0,21975,31.58,71.81,1,2,0,1,0,0,18.0,9.0,39,Residencial,GT Building,Lançamento,08/04/2026 08:38:45,2026-04-08
-19698,Casa Milano,Curitiba,PR,Bigorrilho,Pronto novo,Pronto novo,2477570.0,19356,127.0,315.0,2,4,2,4,2,4,30.0,4.0,6,Residencial,GT Building,Lançamento,08/04/2026 08:36:52,2026-04-08
-54051,Atlân,Curitiba,PR,Água Verde,Em construção,Em construção,1876440.0,20677,90.75,267.85,2,3,1,3,2,3,8.0,4.0,15,Residencial,GT Building,Lançamento,08/04/2026 08:35:01,2026-04-08
-25320,Explore Botânico - Residencial,Curitiba,PR,Cristo Rei,Pronto novo,Pronto novo,809940.0,13245,61.15,81.22,2,3,1,1,1,1,27.0,8.0,14,Residencial,GT Building,Lançamento,08/04/2026 08:35:00,2026-04-08
-56884,Kóra,Curitiba,PR,Portão,Em construção,Em construção,1053802.45,12155,81.4,118.3,2,3,1,3,1,2,19.0,5.0,47,Residencial,AGL,Lançamento,08/04/2026 08:35:00,2026-04-08
-56756,Lange,Curitiba,PR,Batel,Em construção,Em construção,614780.0,23949,25.0,93.0,1,2,0,1,0,1,10.0,12.0,54,Residencial,GT Building,Lançamento,08/04/2026 08:33:36,2026-04-08
-30713,Sou Ecoville,Curitiba,PR,Cidade Industrial,Pronto novo,Pronto novo,539760.0,12245,44.08,44.08,2,2,0,0,1,1,7.0,12.0,1,Residencial,GT Building,Lançamento,08/04/2026 08:32:46,2026-04-08
-66296,Tekoá,Curitiba,PR,São Francisco,Em construção,Em construção,342051.03,11171,27.0,49.0,1,1,0,1,0,0,6.0,12.0,39,Residencial,Coral Engenharia,Lançamento,08/04/2026 08:29:42,2026-04-08
-47096,Amáz,Curitiba,PR,Mercês,Em construção,Em construção,3753420.0,19579,164.76,308.66,3,4,3,4,3,4,8.0,3.0,21,Residencial,GT Building,Lançamento,08/04/2026 08:29:41,2026-04-08
-64404,The Pineyards,Curitiba,PR,Cabral,Em construção,Em construção,2304460.0,18489,123.67,236.58,2,4,1,4,2,4,8.0,4.0,20,Residencial,GT Building,Lançamento,08/04/2026 08:28:14,2026-04-08
-28671,Temple Batel,Curitiba,PR,Batel,Pronto novo,Pronto novo,839930.0,26513,31.68,53.87,1,1,0,0,0,0,10.0,12.0,17,Residencial,GT Building,Lançamento,08/04/2026 08:26:27,2026-04-08
-30718,Ares Juvevê,Curitiba,PR,Juvevê,Pronto novo,Pronto novo,770064.25,13928,55.29,157.87,2,3,1,1,1,2,8.0,10.0,21,Residencial,Gadens,Lançamento,08/04/2026 08:22:33,2026-04-08
-68369,Bosque Hype Casa Nativa,Curitiba,PR,São Francisco,Em construção,Em construção,412900.0,16957,24.17,85.09,1,2,0,2,0,2,4.0,12.0,10,Residencial,Hype,Lançamento,08/04/2026 08:20:17,2026-04-08
-66329,Bliss Campus,Curitiba,PR,Prado Velho,Em construção,Em construção,574405.27,7622,75.36,75.36,3,3,1,1,1,1,8.0,4.0,11,Residencial,Incorporare,Lançamento,08/04/2026 08:16:16,2026-04-08
-76046,Harmony Gardens,Curitiba,PR,Campo Comprido,Em construção,Lançamento,887477.82,5547,152.0,424.65,0,0,0,0,0,0,,,85,Residencial,Andrade Ribeiro,Lançamento,08/04/2026 08:15:05,2026-04-08
-66367,Give City Habitat,Curitiba,PR,Capão Raso,Em construção,Em construção,312900.0,11441,27.35,58.22,1,2,0,1,0,1,7.0,18.0,31,Residencial,Hype,Lançamento,08/04/2026 08:14:23,2026-04-08
-6005,Bosco Centrale,Curitiba,PR,Centro,Pronto novo,Pronto novo,967554.03,13305,72.72,116.37,2,3,1,1,1,2,22.0,6.0,14,Residencial,Gadens,Lançamento,08/04/2026 08:14:21,2026-04-08
-42424,Morá Refúgio Urbano,Curitiba,PR,Centro,Pronto novo,Pronto novo,321486.97,16606,19.36,51.4,1,2,0,0,0,1,18.0,16.0,26,Residencial,Gadens,Lançamento,08/04/2026 08:12:34,2026-04-08
-62131,Idea Studi Inteligenti,Curitiba,PR,Boa Vista,Em construção,Em construção,308406.38,10852,26.73,35.5,1,1,0,0,0,0,9.0,29.0,106,Residencial,Coral Engenharia,Lançamento,08/04/2026 08:07:00,2026-04-08
-38720,High City Habitat 1 (Torre A e B),Curitiba,PR,Novo Mundo,Em construção,Em construção,346900.0,13002,26.68,66.04,1,3,0,1,0,1,7.0,10.0,7,Residencial,Hype,Lançamento,08/04/2026 08:04:20,2026-04-08
-54768,Galeria Hype Casa Nativa,Curitiba,PR,Juvevê,Em construção,Em construção,892278.48,12705,70.23,107.95,3,3,1,3,1,2,7.0,6.0,24,Residencial,Hype,Lançamento,08/04/2026 08:02:07,2026-04-08
-66211,High City Habitat 2 (Torre C),Curitiba,PR,Novo Mundo,Em construção,Em construção,352900.0,12016,29.37,70.1,1,3,0,1,0,1,7.0,10.0,5,Residencial,Hype,Lançamento,08/04/2026 08:00:18,2026-04-08
-49332,Blossom Urban Habitat,Curitiba,PR,Bacacheri,Em construção,Em construção,543900.0,9400,57.86,88.36,2,3,1,1,1,1,7.0,8.0,3,Residencial,Hype,Lançamento,08/04/2026 08:00:16,2026-04-08
-56949,Stone Urban Habitat,Curitiba,PR,Novo Mundo,Em construção,Em construção,669687.28,9297,70.91,72.03,3,3,1,1,1,2,7.0,10.0,3,Residencial,Hype,Lançamento,08/04/2026 07:58:38,2026-04-08
-47704,Cravo Casa Nativa,Curitiba,PR,Portão,Em construção,Em construção,746234.48,11276,66.18,128.33,2,3,1,3,1,2,7.0,4.0,10,Residencial,Hype,Lançamento,08/04/2026 07:58:03,2026-04-08
-36150,Nest Urban Habitat,Curitiba,PR,Bacacheri,Pronto novo,Pronto novo,646521.68,7506,86.13,86.13,2,2,1,1,1,1,8.0,7.0,1,Residencial,Hype,Lançamento,08/04/2026 07:55:09,2026-04-08
-36149,Joy City Habitat,Curitiba,PR,Tingui,Em construção,Em construção,635442.48,8314,76.43,76.43,3,3,1,1,1,1,5.0,8.0,1,Residencial,Hype,Lançamento,08/04/2026 07:51:11,2026-04-08
-35302,Concept Le Monde,Curitiba,PR,Portão,Em construção,Em construção,571580.7,11181,51.12,70.0,2,3,0,1,1,2,9.0,26.0,15,Residencial,Realmarka Construções,Lançamento,08/04/2026 07:47:58,2026-04-08
-51945,Mantiqueira,Curitiba,PR,Bairro Alto,Em construção,Em construção,478000.0,9827,48.64,103.13,2,3,0,1,1,2,7.0,6.0,25,Residencial,Quest Construtora,Lançamento,08/04/2026 07:43:48,2026-04-08
-57684,Fortune,Curitiba,PR,Hauer,Em construção,Em construção,289100.12,13058,22.14,56.67,1,3,0,1,0,1,9.0,10.0,33,Residencial,Realmarka Construções,Lançamento,08/04/2026 07:38:21,2026-04-08
-40095,Audace,Curitiba,PR,Centro,Em construção,Em construção,723900.0,12132,59.67,177.44,2,3,1,1,1,2,8.0,6.0,11,Residencial,Pride,Lançamento,08/04/2026 07:25:17,2026-04-08
-52282,Augen,Curitiba,PR,Campina do Siqueira,Em construção,Em construção,917300.0,13749,66.72,69.17,2,2,1,1,1,1,13.0,6.0,4,Residencial,Pride,Lançamento,08/04/2026 07:22:30,2026-04-08
-52284,Zait,Curitiba,PR,Mercês,Em construção,Em construção,485200.0,15345,31.03,107.86,1,1,0,1,0,0,9.0,8.0,26,Residencial,Pride,Lançamento,08/04/2026 07:22:30,2026-04-08
-35183,Uno Solare,Curitiba,PR,Portão,Em construção,Em construção,380400.0,12407,24.85,60.11,1,2,0,1,0,1,22.0,9.0,31,Residencial,Pride,Lançamento,08/04/2026 07:18:00,2026-04-08
-74026,Linea,Curitiba,PR,Portão,Em construção,Em construção,990570.0,15237,62.64,89.8,2,3,1,2,1,1,33.0,8.0,79,Residencial,GT Building,Lançamento,08/04/2026 07:17:56,2026-04-08
-53963,Vittace Bosque - Fase 2,Curitiba,PR,Capão Raso,Em construção,Em construção,369612.0,8368,44.17,58.07,2,3,0,1,1,1,4.0,4.0,8,Residencial,Prestes,Lançamento,08/04/2026 07:14:29,2026-04-08
-50112,Moní,Curitiba,PR,Alto da Glória,Em construção,Em construção,398312.5,14474,26.87,91.78,1,2,0,2,0,2,9.0,17.0,24,Residencial,AGL,Lançamento,08/04/2026 07:06:48,2026-04-08
-39085,Eleva Hauer - Fase 1,Curitiba,PR,Hauer,Pronto novo,Pronto novo,473229.61,9923,47.69,51.22,2,2,0,1,1,1,8.0,8.0,2,Residencial,Prestes,Lançamento,08/04/2026 06:39:54,2026-04-08
-28948,Sollaris Residencial,Curitiba,PR,Tingui,Pronto novo,Pronto novo,553006.94,7658,56.98,72.21,2,2,1,1,1,1,8.0,6.0,3,Residencial,Coral Engenharia,Lançamento,08/04/2026 06:13:49,2026-04-08
-50579,LIV.IN,Curitiba,PR,Campo Comprido,Em construção,Em construção,597589.59,8931,57.76,66.91,2,3,1,1,1,1,8.0,8.0,65,Residencial,Prestes,Lançamento,08/04/2026 04:02:28,2026-04-08
-62038,Opulus,Curitiba,PR,Água Verde,Em construção,Em construção,1147923.88,14689,78.15,141.81,2,4,1,3,1,2,8.0,4.0,17,Residencial,Coral Engenharia,Lançamento,08/04/2026 03:44:45,2026-04-08
-64406,Sorano,Curitiba,PR,Novo Mundo,Em construção,Em construção,477000.0,10685,44.64,47.94,2,2,1,1,1,1,18.0,15.0,35,Residencial,Pride,Lançamento,08/04/2026 02:14:08,2026-04-08
-36157,ÉQÜI,Curitiba,PR,Seminário,Em construção,Em construção,883997.0,13151,65.13,189.46,2,3,1,1,1,2,4.0,17.0,10,Residencial,Rottas Construtora,Lançamento,08/04/2026 02:09:33,2026-04-08
-72207,Fresta Hype Living,Curitiba,PR,Centro,Em construção,Lançamento,357900.0,15000,23.86,48.36,1,2,0,1,0,0,32.0,30.0,132,Residencial,Hype,Lançamento,08/04/2026 00:16:43,2026-04-08
-76377,Dot - Lojas,Curitiba,PR,Capão Raso,Em construção,Lançamento,314000.0,7316,42.92,126.96,0,0,0,0,0,0,1.0,16.0,3,Comercial,Quest Construtora,Lançamento,07/04/2026 23:44:41,2026-04-08
-76372,Dot - Residencial,Curitiba,PR,Capão Raso,Em construção,Lançamento,335000.0,11318,29.6,60.0,1,2,0,1,0,2,23.0,8.0,117,Residencial,Quest Construtora,Lançamento,07/04/2026 23:40:23,2026-04-08
-75838,Elos Novo Prado,Curitiba,PR,Prado Velho,Em construção,Lançamento,330229.44,9761,33.63,33.98,2,2,0,0,1,1,11.0,10.0,109,Residencial,Blue,Lançamento,07/04/2026 21:36:12,2026-04-08
-57358,Novo Prado Araucária,Curitiba,PR,Prado Velho,Em construção,Em construção,432369.66,9276,45.68,56.37,2,3,1,1,1,1,12.0,8.0,60,Residencial,Blue,Lançamento,07/04/2026 21:35:57,2026-04-08
-70850,Civitas - Lojas,Curitiba,PR,Centro Cívico,Em construção,Em construção,538118.41,16557,32.5,32.5,0,0,0,0,0,0,1.0,2.0,2,Comercial,Blue,Lançamento,07/04/2026 21:34:00,2026-04-08
-26610,Plus Portão,Curitiba,PR,Portão,Pronto novo,Pronto novo,364900.0,12412,29.3,77.2,1,2,0,0,0,0,20.0,18.0,10,Residencial,Blue,Lançamento,07/04/2026 21:33:52,2026-04-08
-73319,Aya Amintas - Lojas,Curitiba,PR,Centro,Em construção,Em construção,1438473.72,11434,125.81,373.98,0,0,0,0,0,0,1.0,2.0,2,Comercial,Blue,Lançamento,07/04/2026 20:56:09,2026-04-08
-76896,F1 Studios,Curitiba,PR,Hauer,Em construção,Em construção,209946.0,9543,22.0,88.39,1,1,0,1,0,1,4.0,14.0,16,Residencial,Arbo Empreendimentos,Lançamento,07/04/2026 18:50:27,2026-04-08
-76897,Mônaco Residence,Curitiba,PR,Água Verde,Em construção,Em construção,268970.0,10920,24.63,30.24,1,1,0,0,0,0,6.0,5.0,16,Residencial,Arbo Empreendimentos,Lançamento,07/04/2026 18:35:09,2026-04-08
-36358,Meo Neoville,Curitiba,PR,Cidade Industrial,Em construção,Em construção,592773.0,8874,66.8,70.08,2,2,1,1,1,1,6.0,8.0,8,Residencial,Rottas Construtora,Lançamento,07/04/2026 18:10:32,2026-04-08
-66222,Vega Neoville,Curitiba,PR,Neoville,Em construção,Em construção,394828.72,8537,46.25,93.52,2,2,0,0,1,1,6.0,8.0,64,Residencial,Rottas Construtora,Lançamento,07/04/2026 18:08:34,2026-04-08
-44734,Meo Hauer,Curitiba,PR,Hauer,Em construção,Em construção,490997.0,9262,53.01,64.08,2,3,1,1,1,1,4.0,8.0,7,Residencial,Rottas Construtora,Lançamento,07/04/2026 18:08:25,2026-04-08
-31186,Luna Luz do Cabral,Curitiba,PR,Cabral,Pronto novo,Pronto novo,1246500.0,13200,94.43,94.43,3,3,1,1,2,2,8.0,6.0,1,Residencial,Maken,Lançamento,07/04/2026 17:37:15,2026-04-08
-44711,Gaia,Curitiba,PR,Cabral,Em construção,Em construção,856000.0,12546,68.23,155.43,2,3,1,3,1,2,8.0,8.0,50,Residencial,Maken,Lançamento,07/04/2026 16:31:33,2026-04-08
-21343,Árten,Curitiba,PR,Alto da Rua XV,Pronto novo,Pronto novo,1867984.63,13700,136.35,136.86,3,3,2,2,0,0,6.0,6.0,2,Residencial,ALTMA,Lançamento,07/04/2026 15:59:25,2026-04-08
-68651,Tamoios,Curitiba,PR,Vila Izabel,Em construção,Em construção,1293714.14,13347,96.93,196.45,3,3,1,3,2,3,8.0,4.0,23,Residencial,Cosmos Incorporadora,Lançamento,07/04/2026 13:59:23,2026-04-08
-67310,Goa,Curitiba,PR,Água Verde,Em construção,Em construção,794000.0,12204,65.06,202.64,2,3,1,1,1,2,8.0,5.0,8,Residencial,Tricon,Lançamento,07/04/2026 11:08:17,2026-04-08
-74615,Tramontto,Curitiba,PR,Tingui,Em construção,Lançamento,494713.8,8820,56.09,126.92,2,2,0,1,1,2,8.0,5.0,27,Residencial,Calure,Lançamento,07/04/2026 10:48:21,2026-04-08
-76250,Plaenge Artis,Curitiba,PR,Mercês,Em construção,Lançamento,1675820.0,15573,107.61,270.55,3,4,1,4,2,3,8.0,6.0,25,Residencial,Plaenge PR,Lançamento,07/04/2026 10:35:59,2026-04-08
-15068,Experience,Curitiba,PR,Ecoville,Pronto novo,Pronto novo,6363000.0,19873,320.18,320.18,4,4,4,4,4,4,23.0,1.0,1,Residencial,Plaenge PR,Lançamento,07/04/2026 10:33:56,2026-04-08
-57712,Paseo Folloni,Curitiba,PR,Ahú,Em construção,Em construção,2093190.0,16234,128.94,232.47,3,3,1,3,2,3,8.0,5.0,15,Residencial,Plaenge PR,Lançamento,07/04/2026 10:33:43,2026-04-08
-51761,Horizon Ecoville,Curitiba,PR,Ecoville,Em construção,Em construção,1739070.0,14553,119.5,119.56,3,3,1,1,2,2,24.0,4.0,42,Residencial,Plaenge PR,Lançamento,07/04/2026 10:26:41,2026-04-08
-56354,Ágon Residence,Curitiba,PR,Água Verde,Em construção,Em construção,1997990.0,14701,129.59,135.91,3,3,1,3,2,2,8.0,2.0,4,Residencial,Plaenge PR,Lançamento,07/04/2026 10:23:25,2026-04-08
-55584,Nest,Curitiba,PR,Alto da Rua XV,Em construção,Em construção,1095721.1,12905,84.03,216.93,2,3,1,3,1,3,8.0,6.0,23,Residencial,Vanguard PR,Lançamento,07/04/2026 10:21:29,2026-04-08
-53174,Lior,Curitiba,PR,Ahú,Em construção,Em construção,1114457.0,15468,72.05,161.4,2,3,1,3,1,2,8.0,6.0,8,Residencial,Piemonte PR,Lançamento,07/04/2026 10:21:23,2026-04-08
-52020,Qoya Residence Curio Collection by Hilton,Curitiba,PR,Batel,Em construção,Em construção,755653.0,20743,36.43,166.25,1,3,0,3,0,2,26.0,15.0,42,Residencial,Piemonte PR,Lançamento,07/04/2026 10:21:20,2026-04-08
-25182,New.in,Curitiba,PR,Cidade Industrial,Pronto novo,Pronto novo,1022145.29,13098,78.04,163.0,2,3,1,1,1,2,26.0,8.0,8,Residencial,Vanguard PR,Lançamento,07/04/2026 10:21:08,2026-04-08
-28283,Croma,Curitiba,PR,Bigorrilho,Pronto novo,Pronto novo,791456.0,11595,68.26,140.54,2,3,1,3,1,2,15.0,9.0,21,Residencial,Piemonte PR,Lançamento,07/04/2026 10:19:09,2026-04-08
-59492,Piemonte Poty,Curitiba,PR,Água Verde,Em construção,Em construção,3297122.0,20335,162.14,202.23,3,3,3,3,3,3,23.0,2.0,16,Residencial,Piemonte PR,Lançamento,07/04/2026 10:18:58,2026-04-08
-35909,Insight,Curitiba,PR,Vila Izabel,Em construção,Em construção,1298646.92,15837,82.0,94.93,2,3,1,1,1,1,21.0,6.0,15,Residencial,Vanguard PR,Lançamento,07/04/2026 10:16:40,2026-04-08
-56173,Nizza,Curitiba,PR,Batel,Em construção,Em construção,3016360.0,22169,136.0,214.48,3,3,3,3,2,3,6.0,2.0,11,Residencial,Piemonte PR,Lançamento,07/04/2026 10:16:28,2026-04-08
-73776,Piemonte Alberi,Curitiba,PR,Cabral,Em construção,Em construção,2426816.0,16006,151.62,295.69,3,4,3,4,2,4,6.0,6.0,38,Residencial,Piemonte PR,Lançamento,07/04/2026 10:14:34,2026-04-08
-25523,Jardim dos Manacás,Curitiba,PR,Tingui,Pronto novo,Pronto novo,616066.0,10280,59.93,73.35,2,3,1,1,1,2,7.0,8.0,4,Residencial,Piemonte PR,Lançamento,07/04/2026 10:14:26,2026-04-08
-64298,Réve,Curitiba,PR,Centro Cívico,Em construção,Em construção,927967.54,12785,71.75,282.1,2,3,1,3,1,3,10.0,16.0,48,Residencial,Riskalla,Lançamento,07/04/2026 10:14:16,2026-04-08
-72974,Aion,Curitiba,PR,Batel,Em construção,Em construção,2473360.0,17200,143.8,286.3,3,4,3,4,3,6,10.0,2.0,9,Residencial,Riskalla,Lançamento,07/04/2026 10:09:04,2026-04-08
-47222,Auth,Curitiba,PR,Centro Cívico,Em construção,Em construção,861947.94,14818,58.17,237.58,1,3,1,3,1,2,7.0,8.0,13,Residencial,Vanguard PR,Lançamento,07/04/2026 10:06:34,2026-04-08
-71480,Hytte,Curitiba,PR,Campina do Siqueira,Em construção,Em construção,1137010.41,13602,82.52,236.33,2,3,1,3,1,3,8.0,8.0,61,Residencial,Vanguard PR,Lançamento,07/04/2026 10:05:50,2026-04-08
-37482,Garden Sevilha - Lojas,Curitiba,PR,Boa Vista,Pronto novo,Pronto novo,1800000.0,5014,359.0,359.0,0,0,0,0,15,15,1.0,3.0,1,Comercial,Vanguard PR,Lançamento,07/04/2026 10:03:44,2026-04-08
-67182,Ara,Curitiba,PR,Água Verde,Em construção,Em construção,866119.29,11314,76.27,255.19,2,3,1,3,1,4,7.0,6.0,26,Residencial,Veres,Lançamento,07/04/2026 09:43:00,2026-04-08
-71186,Naví Garcia,Curitiba,PR,Boqueirão,Em construção,Em construção,278227.89,9486,29.33,115.71,1,3,0,1,0,2,4.0,6.0,16,Residencial,ACKL Empreendimentos,Lançamento,07/04/2026 08:03:43,2026-04-08
-67312,Pilar TownHouse,Curitiba,PR,Pilarzinho,Pronto novo,Pronto novo,999000.0,7164,139.45,139.45,3,3,1,1,2,2,,,1,Residencial,Nova SS Construções,Lançamento,07/04/2026 07:28:35,2026-04-08
-54011,Barcelona,Curitiba,PR,Hauer,Pronto novo,Pronto novo,559000.0,8227,67.95,67.95,3,3,1,1,1,1,4.0,5.0,1,Residencial,Reus Construtora,Lançamento,07/04/2026 01:38:19,2026-04-08
-71934,Next 360,Curitiba,PR,Portão,Em construção,Lançamento,330000.0,9560,34.52,171.73,1,3,0,1,0,1,4.0,10.0,33,Residencial,Enkan,Lançamento,07/04/2026 00:12:48,2026-04-08
-79623,Sonatta Home Club,Curitiba,PR,Vila Izabel,Em construção,Lançamento,771398.38,12729,60.57,182.77,2,3,1,3,1,2,8.0,6.0,46,Residencial,ATR Incorporadora PR,Lançamento,06/04/2026 23:24:32,2026-04-08
-25318,Human Batel,Curitiba,PR,Batel,Pronto novo,Pronto novo,429300.0,19199,22.36,37.71,0,0,0,0,0,0,8.0,17.0,5,Comercial,GT Building,Lançamento,06/04/2026 23:04:09,2026-04-08
-74408,Nox Residence,Curitiba,PR,Juvevê,Pronto novo,Pronto novo,1346482.62,13685,98.39,98.39,3,3,2,2,1,1,4.0,6.0,1,Residencial,Zelta,Lançamento,06/04/2026 22:25:21,2026-04-08
-74366,Ícone 1269,Curitiba,PR,Hugo Lange,Pronto novo,Pronto novo,500746.83,15707,31.38,32.08,1,1,0,0,0,0,4.0,11.0,8,Residencial,Zelta,Lançamento,06/04/2026 22:23:08,2026-04-08
-74409,Curí 1615,Curitiba,PR,Juvevê,Em construção,Em construção,472516.38,14241,33.18,148.0,1,2,0,2,0,1,4.0,11.0,25,Residencial,Zelta,Lançamento,06/04/2026 22:04:25,2026-04-08
-30714,OÁS Barigui,Curitiba,PR,Bigorrilho,Em construção,Em construção,3169690.0,19242,164.73,286.11,3,4,3,4,2,4,50.0,2.0,14,Residencial,GT Building,Lançamento,06/04/2026 21:50:05,2026-04-08
-77022,Seven,Curitiba,PR,Alto da Glória,Em construção,Em construção,210949.05,10521,20.05,31.8,1,1,0,0,0,0,7.0,10.0,34,Residencial,Dornelles,Lançamento,06/04/2026 21:30:41,2026-04-08
-29743,Oasis,Curitiba,PR,Santa Cândida,Pronto novo,Pronto novo,899900.0,8035,112.0,112.0,3,3,1,1,2,2,,,9,Residencial,Inndesa Incorporadora,Lançamento,06/04/2026 21:13:28,2026-04-08
-75918,Arte Vert,Curitiba,PR,Água Verde,Em construção,Lançamento,925005.0,12019,76.96,204.2,2,4,1,4,2,3,8.0,5.0,13,Residencial,Artesa Construtora,Lançamento,06/04/2026 21:02:30,2026-04-08
-29354,Palm 235,Curitiba,PR,Alto da Glória,Pronto novo,Pronto novo,4535010.0,16496,274.92,281.64,4,4,2,2,4,4,8.0,4.0,2,Residencial,Plaenge PR,Lançamento,06/04/2026 18:41:48,2026-04-08
-26297,Chateau Latour,Curitiba,PR,Seminário,Pronto novo,Pronto novo,1524766.82,15824,95.44,263.66,2,3,1,3,2,5,8.0,5.0,27,Residencial,Homs Incorporadora,Lançamento,06/04/2026 18:39:21,2026-04-08
-68212,Átrio,Curitiba,PR,Ecoville,Em construção,Em construção,2734410.0,15965,170.82,239.59,3,3,3,3,3,3,26.0,2.0,22,Residencial,Plaenge PR,Lançamento,06/04/2026 18:32:33,2026-04-08
-68270,Pulse,Curitiba,PR,Água Verde,Em construção,Em construção,1179791.11,12338,95.62,236.72,1,3,1,1,1,2,23.0,6.0,19,Residencial,Vanguard PR,Lançamento,06/04/2026 17:48:55,2026-04-08
-78016,Reserva Origens Ristreto,Curitiba,PR,Campo de Santana,Em construção,Em construção,241794.0,1314,165.65,184.02,0,0,0,0,0,0,,,2,Residencial,Piemonte PR,Lançamento,06/04/2026 17:48:51,2026-04-08
-73987,Vero,Curitiba,PR,Ahú,Em construção,Em construção,2500000.0,17986,139.0,417.0,2,4,2,4,2,4,4.0,5.0,12,Residencial,Giacomazzi,Lançamento,06/04/2026 17:46:17,2026-04-08
-80979,Manhattan Wall Street,Curitiba,PR,Alto da Glória,Em construção,Lançamento,235000.0,15083,15.58,30.55,1,1,0,0,0,0,6.0,26.0,136,Residencial,Manhattan Empreendimentos Imobiliários,Lançamento,06/04/2026 16:01:45,2026-04-08
-57702,Alameda Ecoville - Fase 1,Curitiba,PR,Campo Comprido,Em construção,Em construção,2280000.0,8913,255.82,255.82,3,3,3,3,2,2,,,7,Residencial,Tempos Incorporadora,Lançamento,06/04/2026 14:54:18,2026-04-08
-65600,El Arte Moradas Concepto,Curitiba,PR,Campo Comprido,Em construção,Em construção,867177.37,12674,68.42,242.78,2,3,1,3,1,2,6.0,12.0,21,Residencial,Inndesa Incorporadora,Lançamento,06/04/2026 12:52:29,2026-04-08
-76014,Apus,Curitiba,PR,Água Verde,Em construção,Lançamento,712168.6,13228,45.86,146.79,1,3,0,2,1,3,8.0,5.0,14,Residencial,Maya Incorporadora,Lançamento,06/04/2026 10:43:11,2026-04-08
-80921,Retro Plano da Dornelles,Curitiba,PR,Alto da XV,Em construção,Lançamento,173561.85,9397,18.47,39.21,1,1,0,0,0,0,3.0,10.0,10,Residencial,Dornelles,Lançamento,06/04/2026 09:54:35,2026-04-08
-48312,EZA Living,Curitiba,PR,Ahú,Pronto novo,Pronto novo,1635082.0,15425,106.0,305.0,2,4,2,4,2,4,9.0,4.0,5,Residencial,Dreamis Incorporadora,Lançamento,04/04/2026 20:56:48,2026-04-08
-62305,Lothus,Curitiba,PR,Seminário,Pronto novo,Pronto novo,988933.0,12100,81.73,134.05,3,3,1,1,1,2,6.0,3.0,9,Residencial,Realiza Construções,Lançamento,03/04/2026 15:05:41,2026-04-08
-49232,Blentt - Residencial,Curitiba,PR,Portão,Em construção,Em construção,743182.88,12719,58.0,119.58,2,3,1,3,0,1,12.0,14.0,7,Residencial,ATR Incorporadora PR,Lançamento,03/04/2026 09:57:12,2026-04-08
-43504,Mozine Wellness Design,Curitiba,PR,Juvevê,Em construção,Em construção,2112217.4,15418,137.0,137.0,4,4,4,4,2,2,8.0,5.0,1,Residencial,ATR Incorporadora PR,Lançamento,03/04/2026 09:54:58,2026-04-08
-57124,Core Faivre,Curitiba,PR,Centro,Em construção,Em construção,299396.86,15883,18.85,37.51,1,2,0,0,0,0,20.0,14.0,33,Residencial,Gadens,Lançamento,02/04/2026 23:21:48,2026-04-08
-68973,Atmos Ecoville,Curitiba,PR,Ecoville,Em construção,Em construção,2532264.26,12502,201.53,211.92,3,3,3,3,2,2,,,18,Residencial,CGL,Lançamento,02/04/2026 22:55:03,2026-04-08
-80019,Rocca,Curitiba,PR,Boa Vista,Em construção,Lançamento,265900.0,8938,29.75,133.68,1,3,0,1,0,2,13.0,10.0,85,Residencial,Auten,Lançamento,02/04/2026 22:50:56,2026-04-08
-38822,Zenith Barigui,Curitiba,PR,Santo Inácio,Pronto novo,Pronto novo,3080000.0,12020,243.25,256.25,3,4,2,3,2,2,,,6,Residencial,CGL,Lançamento,02/04/2026 22:25:39,2026-04-08
-49233,Blentt - Lojas,Curitiba,PR,Portão,Em construção,Em construção,1068767.23,16057,66.56,159.25,0,0,0,0,2,2,1.0,3.0,3,Comercial,ATR Incorporadora PR,Lançamento,02/04/2026 21:57:11,2026-04-08
-75845,Terracota,Curitiba,PR,Ecoville,Em construção,Lançamento,1241344.85,12110,102.51,243.97,3,3,1,3,2,2,6.0,8.0,22,Residencial,CGL,Lançamento,02/04/2026 21:12:32,2026-04-08
-49833,House Ecoville,Curitiba,PR,Campo Comprido,Pronto novo,Pronto novo,1563520.0,7885,197.95,198.29,3,3,1,1,2,2,,,8,Residencial,CGL,Lançamento,02/04/2026 20:27:26,2026-04-08
-54810,Ambar,Curitiba,PR,Santa Felicidade,Em construção,Em construção,2804125.38,11136,251.8,264.49,3,3,3,3,3,3,,,12,Residencial,CGL,Lançamento,02/04/2026 20:24:43,2026-04-08
-51058,Oká Bacacheri,Curitiba,PR,Bacacheri,Em construção,Em construção,1550000.0,7334,211.35,247.3,3,3,3,3,2,2,,,11,Residencial,CGL,Lançamento,02/04/2026 20:16:40,2026-04-08
-27802,Easy Vila Izabel,Curitiba,PR,Vila Izabel,Pronto novo,Pronto novo,466131.54,11627,40.09,40.09,2,2,0,0,1,1,8.0,6.0,1,Residencial,Basesul,Lançamento,02/04/2026 19:34:24,2026-04-08
-16647,One House,Curitiba,PR,Novo Mundo,Pronto novo,Pronto novo,250000.0,11013,22.7,31.35,1,1,0,1,0,0,8.0,26.0,13,Residencial,Basesul,Lançamento,02/04/2026 12:45:54,2026-04-08
-77000,Tauá - Breve Lançamento,Curitiba,PR,Juvevê,Em construção,Lançamento,0.1,0,147.7,370.23,3,4,3,4,2,4,9.0,8.0,58,Residencial,Dreamis Incorporadora,Lançamento,02/04/2026 11:24:12,2026-04-08
-37213,Piazza 685,Curitiba,PR,Água Verde,Pronto novo,Pronto novo,2796150.0,16448,145.0,170.0,3,3,3,3,2,3,8.0,3.0,2,Residencial,ABCR,Lançamento,02/04/2026 08:47:55,2026-04-08
-36466,Gran Solare,Curitiba,PR,Cristo Rei,Pronto novo,Pronto novo,1352324.02,13472,100.38,159.71,2,3,2,3,2,2,17.0,3.0,12,Residencial,Equilíbrio,Lançamento,02/04/2026 01:25:15,2026-04-08
-45915,Sangiovese,Curitiba,PR,Alto da Glória,Em construção,Em construção,1775684.45,15994,110.33,261.17,2,3,1,3,2,3,8.0,8.0,19,Residencial,Equilíbrio,Lançamento,02/04/2026 01:25:14,2026-04-08
-30588,Trebbiano Residencial - Fase 2,Curitiba,PR,Campo Comprido,Pronto novo,Pronto novo,1163502.72,15603,74.57,194.31,2,3,1,3,1,2,11.0,6.0,15,Residencial,Equilíbrio,Lançamento,02/04/2026 01:25:14,2026-04-08
-56706,Blanc de Rouge,Curitiba,PR,Juvevê,Em construção,Em construção,2600229.9,16652,154.19,215.18,3,3,3,3,2,3,24.0,2.0,22,Residencial,Equilíbrio,Lançamento,02/04/2026 01:25:12,2026-04-08
-80225,Moov - Breve Lançamento,Curitiba,PR,Bigorrilho,Em construção,Lançamento,0.1,0,16.45,44.81,1,1,0,0,0,0,8.0,12.0,1,Residencial,Basesul,Lançamento,02/04/2026 01:25:11,2026-04-08
-71423,Aya Carlos de Carvalho - Lojas,Curitiba,PR,Centro,Em construção,Em construção,5029994.85,14423,348.76,579.14,0,0,0,0,0,0,1.0,8.0,4,Comercial,Blue,Lançamento,02/04/2026 01:25:06,2026-04-08
-53966,Hit Home,Curitiba,PR,Alto da Glória,Em construção,Em construção,379795.9,14209,26.73,53.51,1,2,0,0,0,0,10.0,14.0,4,Residencial,Blue,Lançamento,02/04/2026 01:25:06,2026-04-08
-54393,Aretha,Curitiba,PR,Rebouças,Pronto novo,Pronto novo,335300.0,13134,25.53,36.57,1,1,0,0,1,1,7.0,14.0,35,Residencial,Deborah Bassoli Empreendimentos,Lançamento,02/04/2026 00:54:50,2026-04-08
-76951,Grand Lodge Batel,Curitiba,PR,Batel,Em construção,Lançamento,2375826.52,19711,120.53,308.95,2,3,2,3,2,3,8.0,3.0,37,Residencial,Partilha,Lançamento,02/04/2026 00:24:45,2026-04-08
-56943,Guaraúna,Curitiba,PR,Juvevê,Em construção,Em construção,3950000.0,13958,210.0,283.0,2,3,2,3,3,4,8.0,1.0,2,Residencial,Giacomazzi,Lançamento,01/04/2026 23:51:18,2026-04-08
-49912,Nillo,Curitiba,PR,Bom Retiro,Em construção,Em construção,686000.0,12813,52.16,69.25,2,2,0,2,1,1,6.0,5.0,6,Residencial,Tricon,Lançamento,01/04/2026 23:31:38,2026-04-08
-78839,Loom Stay,Curitiba,PR,Centro,Em construção,Lançamento,399000.0,13721,29.06,90.04,1,2,0,0,0,0,10.0,13.0,43,Residencial,Tricon,Lançamento,01/04/2026 23:28:35,2026-04-08
-72362,Natune,Curitiba,PR,Cajuru,Em construção,Em construção,305583.31,12733,24.0,59.6,1,2,0,1,0,0,8.0,16.0,33,Residencial,Tuo Empreendimentos,Lançamento,01/04/2026 23:26:32,2026-04-08
-51913,Avvio,Curitiba,PR,Vila Izabel,Em construção,Em construção,799000.0,13447,59.42,65.53,2,2,1,1,1,2,7.0,4.0,5,Residencial,Tricon,Lançamento,01/04/2026 23:03:00,2026-04-08
-73019,Core Silva Jardim,Curitiba,PR,Rebouças,Em construção,Em construção,384961.37,15008,22.8,25.65,1,1,0,0,0,0,21.0,16.0,4,Residencial,Gadens,Lançamento,01/04/2026 21:48:55,2026-04-08
-76222,Eternity,Curitiba,PR,Água Verde,Em construção,Lançamento,892944.0,12402,70.0,80.0,2,3,1,1,1,2,8.0,6.0,23,Residencial,ABCR,Lançamento,01/04/2026 20:42:56,2026-04-08
-54968,Terrasse Joie,Curitiba,PR,Boa Vista,Em construção,Em construção,854000.0,12134,68.92,161.21,2,3,1,1,1,2,7.0,11.0,37,Residencial,Terrasse,Lançamento,01/04/2026 20:20:23,2026-04-08
-53173,Fýsi,Curitiba,PR,Hauer,Pronto novo,Pronto novo,515704.61,3956,130.37,184.53,0,0,0,0,0,0,,,17,Residencial,Equilíbrio,Lançamento,01/04/2026 20:15:43,2026-04-08
-36011,Terrasse Lilas,Curitiba,PR,Ahú,Pronto novo,Pronto novo,1636000.0,13687,115.87,125.22,3,3,1,1,2,3,7.0,3.0,10,Residencial,Terrasse,Lançamento,01/04/2026 20:15:40,2026-04-08
-65642,Equilíbrio Alta,Curitiba,PR,Mercês,Em construção,Em construção,1304853.21,15054,86.68,334.42,2,3,2,3,1,3,8.0,6.0,19,Residencial,Equilíbrio,Lançamento,01/04/2026 20:13:27,2026-04-08
-21173,Terrasse Mouvement,Curitiba,PR,Cabral,Pronto novo,Pronto novo,1277000.0,12819,99.62,100.35,3,3,1,1,2,2,19.0,2.0,10,Residencial,Terrasse,Lançamento,01/04/2026 20:11:32,2026-04-08
-80385,Terrasse La Vie,Curitiba,PR,Água Verde,Em construção,Lançamento,909000.0,12616,71.72,191.09,2,3,1,1,1,2,7.0,12.0,88,Residencial,Terrasse,Lançamento,01/04/2026 20:11:29,2026-04-08
-69476,Terrasse L'Avenir,Curitiba,PR,Ecoville,Em construção,Em construção,879000.0,12361,70.7,216.66,2,3,1,3,1,2,7.0,15.0,56,Residencial,Terrasse,Lançamento,01/04/2026 20:11:17,2026-04-08
-36024,Terrasse Élégant,Curitiba,PR,Ahú,Pronto novo,Pronto novo,1190000.0,13112,90.76,164.99,2,2,1,1,1,2,7.0,5.0,5,Residencial,Terrasse,Lançamento,01/04/2026 20:08:34,2026-04-08
-53204,Terrasse Infini - Residencial,Curitiba,PR,Água Verde,Em construção,Em construção,1020000.0,13022,78.33,113.67,2,3,1,2,1,2,27.0,5.0,39,Residencial,Terrasse,Lançamento,01/04/2026 20:08:31,2026-04-08
-24068,Terrasse Hemisphere - Comercial,Curitiba,PR,Mossunguê,Pronto novo,Pronto novo,607877.59,17353,35.03,46.43,0,0,0,0,1,2,7.0,7.0,10,Comercial,Terrasse,Lançamento,01/04/2026 20:08:26,2026-04-08
-20784,Terrasse Normandie,Curitiba,PR,Juvevê,Pronto novo,Pronto novo,2420000.0,13959,173.36,173.36,3,3,1,1,3,3,8.0,3.0,1,Residencial,Terrasse,Lançamento,01/04/2026 20:08:23,2026-04-08
-26213,Terrasse Vincennes,Curitiba,PR,Juvevê,Pronto novo,Pronto novo,2220000.0,15324,127.58,145.57,3,3,3,3,3,3,7.0,3.0,5,Residencial,Terrasse,Lançamento,01/04/2026 20:05:18,2026-04-08
-21170,Terrasse Jeune,Curitiba,PR,Juvevê,Pronto novo,Pronto novo,1460000.0,13801,105.2,105.79,3,3,1,1,2,2,7.0,3.0,2,Residencial,Terrasse,Lançamento,01/04/2026 20:05:15,2026-04-08
-20770,Terrasse Musique,Curitiba,PR,Cristo Rei,Pronto novo,Pronto novo,1328000.0,12234,108.55,108.55,3,3,1,1,2,2,7.0,4.0,1,Residencial,Terrasse,Lançamento,01/04/2026 20:03:30,2026-04-08
-57486,Terrasse Magique,Curitiba,PR,Portão,Em construção,Em construção,788000.0,11721,67.23,124.77,2,3,1,1,1,2,18.0,6.0,52,Residencial,Terrasse,Lançamento,01/04/2026 20:03:26,2026-04-08
-37863,Terrasse Nature,Curitiba,PR,Santo Inácio,Pronto novo,Pronto novo,2410000.0,14707,143.07,386.78,3,3,3,3,2,4,3.0,4.0,14,Residencial,Terrasse,Lançamento,01/04/2026 20:03:18,2026-04-08
-53206,Terrasse Infini - Comercial,Curitiba,PR,Água Verde,Em construção,Em construção,556000.0,10430,46.68,72.28,0,0,0,0,0,0,3.0,16.0,6,Comercial,Terrasse,Lançamento,01/04/2026 20:00:31,2026-04-08
-20790,Terrasse Créatif Commerciale,Curitiba,PR,Vila Izabel,Pronto novo,Pronto novo,659392.64,16715,39.45,46.2,0,0,0,0,0,0,13.0,11.0,4,Comercial,Terrasse,Lançamento,01/04/2026 19:56:15,2026-04-08
-36012,Terrasse Cadeaux,Curitiba,PR,Ahú,Pronto novo,Pronto novo,1176000.0,11922,96.81,130.65,3,3,1,3,2,2,7.0,6.0,10,Residencial,Terrasse,Lançamento,01/04/2026 19:53:57,2026-04-08
-41560,Terrasse Accueillant,Curitiba,PR,Juvevê,Pronto novo,Pronto novo,2300000.0,15300,145.92,171.66,3,3,3,3,3,3,7.0,3.0,6,Residencial,Terrasse,Lançamento,01/04/2026 19:49:10,2026-04-08
-20792,Terrasse Botanique,Curitiba,PR,Cristo Rei,Pronto novo,Pronto novo,1020000.0,13207,77.08,132.33,3,3,1,1,1,2,11.0,4.0,4,Residencial,Terrasse,Lançamento,01/04/2026 19:44:49,2026-04-08
-64405,Oslo,Curitiba,PR,Santa Quitéria,Em construção,Em construção,757916.19,11795,64.26,90.96,2,3,1,2,1,2,6.0,5.0,16,Residencial,Construtora Pessoa,Lançamento,01/04/2026 16:03:29,2026-04-08
-43505,Soul Urban Habitat,Curitiba,PR,Boa Vista,Em construção,Lançamento,909228.0,10200,89.14,172.86,3,3,1,3,1,2,7.0,3.0,12,Residencial,Engsa,Lançamento,01/04/2026 13:57:25,2026-04-08
-57969,OAK Curitiba,Curitiba,PR,Boa Vista,Em construção,Em construção,915300.0,10800,84.75,154.16,3,3,1,3,2,2,7.0,4.0,7,Residencial,Engsa,Lançamento,01/04/2026 13:55:53,2026-04-08
-23534,Álamo,Curitiba,PR,Bigorrilho,Pronto novo,Pronto novo,2049000.0,15457,132.56,357.99,3,4,3,4,2,4,8.0,3.0,8,Residencial,Monarca,Lançamento,01/04/2026 11:42:44,2026-04-08
-61433,Saint Maartan,Curitiba,PR,Portão,Em construção,Em construção,841248.27,10809,77.83,156.46,2,3,1,1,1,1,5.0,2.0,6,Residencial,JK Confiance,Lançamento,01/04/2026 11:41:42,2026-04-08
-60616,Uma Batel,Curitiba,PR,Batel,Em construção,Em construção,3533841.27,21489,164.45,455.87,3,4,3,4,3,5,10.0,3.0,16,Residencial,Monarca,Lançamento,01/04/2026 05:29:56,2026-04-08
-29103,Heart Urban Habitat,Curitiba,PR,Santa Felicidade,Pronto novo,Pronto novo,799900.0,9290,86.1,86.1,3,3,1,1,2,2,3.0,5.0,1,Residencial,Hype,Lançamento,01/04/2026 04:32:55,2026-04-08
-48338,Serra Dourada,Curitiba,PR,Bairro Alto,Em construção,Em construção,407767.14,12111,33.67,66.08,1,3,0,1,0,1,13.0,12.0,25,Residencial,Treèle,Lançamento,01/04/2026 03:13:31,2026-04-08
-71718,Pine Blue,Curitiba,PR,Capão Raso,Em construção,Em construção,526315.79,8687,58.81,61.67,2,2,1,1,1,1,25.0,6.0,113,Residencial,MGA Construtora,Lançamento,01/04/2026 01:24:52,2026-04-08
-37099,One Life,Curitiba,PR,Portão,Pronto novo,Pronto novo,352417.57,21052,16.74,30.17,1,1,0,0,0,0,20.0,36.0,15,Residencial,Basesul,Lançamento,01/04/2026 01:24:51,2026-04-08
-72965,Smart Living Portão - Breve Lançamento,Curitiba,PR,Portão,Em construção,Lançamento,0.1,0,17.72,33.39,1,1,0,0,0,0,8.0,7.0,50,Residencial,Marvi Incorporadora,Lançamento,31/03/2026 15:04:01,2026-04-08
-76894,Gran Pallazo III,Curitiba,PR,Alto da XV,Em construção,Em construção,1390000.0,6971,199.41,219.18,3,3,3,3,1,2,,,3,Residencial,Arbo Empreendimentos,Lançamento,30/03/2026 21:06:10,2026-04-08
-76892,Gran Pallazo IV,Curitiba,PR,Guabirotuba,Pronto novo,Pronto novo,989000.0,5941,166.47,187.72,3,3,1,1,1,2,,,2,Residencial,Arbo Empreendimentos,Lançamento,30/03/2026 20:58:06,2026-04-08
-58835,Dalí,Curitiba,PR,Bacacheri,Em construção,Em construção,1101261.61,11842,90.7,119.87,2,3,1,1,1,2,15.0,5.0,45,Residencial,MM Arruda,Lançamento,30/03/2026 14:05:15,2026-04-08
-73927,Kobe,Curitiba,PR,Vila Izabel,Em construção,Lançamento,440552.8,12711,34.66,154.4,1,2,0,1,0,1,6.0,6.0,17,Residencial,TM3 Incorporadora PR,Lançamento,27/03/2026 20:52:39,2026-04-08
-27439,Klimt,Curitiba,PR,Cabral,Pronto novo,Pronto novo,1291000.0,12782,101.0,155.0,2,3,1,3,2,3,20.0,6.0,52,Residencial,MM Arruda,Lançamento,27/03/2026 10:34:30,2026-04-08
-73074,Áurea,Curitiba,PR,Campina do Siqueira,Em construção,Em construção,2797296.0,11845,236.16,242.78,3,3,3,3,3,4,,,4,Residencial,GJR Empreendimentos,Lançamento,26/03/2026 14:06:06,2026-04-08
-71231,Bosque do Parque - Breve Lançamento,Curitiba,PR,Pilarzinho,Em construção,Lançamento,0.1,0,153.0,214.0,0,0,0,0,0,0,,,41,Residencial,B3P Incorporadora,Lançamento,25/03/2026 16:29:34,2026-04-08
-68408,Madrid,Curitiba,PR,Boqueirão,Em construção,Lançamento,509000.0,7956,63.65,117.21,3,3,1,1,1,1,4.0,6.0,13,Residencial,Reus Construtora,Lançamento,25/03/2026 16:28:33,2026-04-08
-50477,Bruder,Curitiba,PR,Jardim das Américas,Pronto novo,Pronto novo,1350000.0,6482,208.28,208.28,3,3,3,3,2,2,,,2,Residencial,Reus Construtora,Lançamento,25/03/2026 16:28:01,2026-04-08
-72208,Sublime,Curitiba,PR,Batel,Em construção,Em construção,5400000.0,22146,243.0,849.69,3,5,3,5,3,5,6.0,3.0,12,Residencial,Bouw,Lançamento,25/03/2026 09:32:09,2026-04-08
-80592,Schiller,Curitiba,PR,Cristo Rei,Em construção,Em construção,234513.99,12402,18.91,35.22,1,1,0,0,0,0,4.0,5.0,11,Residencial,Casenge Construtora,Lançamento,23/03/2026 23:09:33,2026-04-08
-80197,Saint Augustine Studios,Curitiba,PR,Bacacheri,Em construção,Em construção,245000.0,11887,18.09,39.32,1,1,0,0,0,0,6.0,5.0,6,Residencial,Jota2F Construtora,Lançamento,23/03/2026 15:44:00,2026-04-08
-80196,Houston Residence,Curitiba,PR,Novo Mundo,Em construção,Em construção,205000.0,9075,22.59,39.48,1,1,0,0,0,0,8.0,7.0,32,Residencial,Jota2F Construtora,Lançamento,23/03/2026 15:43:10,2026-04-08
-954,Workspace Brigadeiro,Curitiba,PR,Batel,Pronto novo,Pronto novo,737150.69,12300,59.93,60.53,0,0,0,0,0,1,20.0,12.0,2,Comercial,Invespark,Lançamento,23/03/2026 15:03:43,2026-04-08
-71185,Casa Goinski,Curitiba,PR,Taboão,Pronto novo,Pronto novo,479682.0,3150,152.28,279.39,0,0,0,0,0,0,,,27,Residencial,B3P Incorporadora,Lançamento,20/03/2026 15:21:14,2026-04-08
-21701,Ilha de Capri - Residencial,Curitiba,PR,Vila Izabel,Pronto novo,Pronto novo,799000.0,10241,78.02,160.35,2,3,1,2,1,3,7.0,7.0,3,Residencial,HRC,Lançamento,20/03/2026 11:24:15,2026-04-08
-69526,Manhã,Curitiba,PR,Batel,Em construção,Em construção,5992078.0,20663,249.56,434.0,3,4,3,4,3,5,10.0,3.0,15,Residencial,Bidese,Lançamento,20/03/2026 10:52:47,2026-04-08
-74560,Orfeu,Curitiba,PR,Água Verde,Pronto novo,Pronto novo,1215634.82,14243,85.35,190.57,2,3,1,2,2,2,6.0,3.0,13,Residencial,Grupo Hestia,Lançamento,20/03/2026 10:50:00,2026-04-08
-74586,Chronos,Curitiba,PR,Seminário,Em construção,Em construção,1381435.9,18343,75.31,146.04,2,3,1,1,2,3,8.0,5.0,49,Residencial,Grupo Hestia,Lançamento,20/03/2026 10:44:41,2026-04-08
-44526,Manhattan Square,Curitiba,PR,Alto da XV,Em construção,Em construção,310000.0,14059,22.05,60.66,1,1,0,0,0,0,8.0,14.0,44,Residencial,Manhattan Empreendimentos Imobiliários,Lançamento,20/03/2026 04:34:24,2026-04-08
-64623,Palazzo Saldanha,Curitiba,PR,Centro,Pronto novo,Pronto novo,2155100.0,17282,124.7,194.91,2,3,2,3,2,2,9.0,2.0,2,Residencial,Pride,Lançamento,20/03/2026 01:23:49,2026-04-08
-31606,La Défense,Curitiba,PR,Campo Comprido,Em construção,Em construção,1650000.0,13294,124.12,249.54,3,3,3,3,2,4,10.0,4.0,2,Residencial,Manhattan Empreendimentos Imobiliários,Lançamento,20/03/2026 01:07:54,2026-04-08
-67313,Residencial NMS,Curitiba,PR,Atuba,Pronto novo,Pronto novo,690000.0,6663,103.56,104.69,3,3,1,1,2,2,,,3,Residencial,Nova SS Construções,Lançamento,20/03/2026 00:47:38,2026-04-08
-27171,Merizzo Residencial,Curitiba,PR,Capão Raso,Pronto novo,Pronto novo,455000.0,9479,48.0,81.8,2,2,0,0,1,2,8.0,5.0,3,Residencial,Thal Engenharia,Lançamento,19/03/2026 09:42:55,2026-04-08
-63515,La Dolce Vista - Breve Lançamento,Curitiba,PR,Tingui,Em construção,Em construção,0.1,0,45.06,97.66,2,2,0,0,1,1,5.0,,28,Residencial,Thal Engenharia,Lançamento,19/03/2026 09:40:49,2026-04-08
-79650,Auma - Breve Lançamento,Curitiba,PR,Boa Vista,Em construção,Lançamento,0.1,0,44.32,205.96,1,3,0,1,0,2,12.0,6.0,35,Residencial,Thal Engenharia,Lançamento,19/03/2026 09:40:49,2026-04-08
-23240,MUV Residence,Curitiba,PR,Centro,Pronto novo,Pronto novo,319718.57,15634,20.45,36.91,1,1,0,1,0,0,18.0,24.0,31,Residencial,Alô Incorp,Lançamento,19/03/2026 09:26:14,2026-04-08
-67311,Braz Haus,Curitiba,PR,São Braz,Pronto novo,Pronto novo,1390000.0,8555,162.48,199.15,3,3,3,3,2,2,,,4,Residencial,Nova SS Construções,Lançamento,19/03/2026 07:14:42,2026-04-08
-80457,Mugello,Curitiba,PR,Orleans,Pronto novo,Pronto novo,920000.0,5266,174.72,174.72,3,3,1,1,2,2,,,1,Residencial,Potenza Construções,Lançamento,18/03/2026 14:24:02,2026-04-08
-80452,Interlakes,Curitiba,PR,Vila Izabel,Pronto novo,Pronto novo,1590000.0,8123,195.74,195.74,3,3,3,3,3,3,,,1,Residencial,Potenza Construções,Lançamento,17/03/2026 22:23:32,2026-04-08
-58249,Moradas da Mata,Curitiba,PR,Campo Comprido,Pronto novo,Pronto novo,446860.98,14895,29.84,55.44,1,1,0,1,0,0,3.0,18.0,46,Residencial,Hope Incorporadora,Lançamento,17/03/2026 21:36:36,2026-04-08
-4135,Infinite,Curitiba,PR,Cabral,Pronto novo,Pronto novo,3990000.0,18399,216.86,216.86,3,3,3,3,3,3,8.0,4.0,1,Residencial,Cima,Lançamento,17/03/2026 13:06:54,2026-04-08
-53916,NIO,Curitiba,PR,Bigorrilho,Pronto novo,Pronto novo,3198000.0,18333,174.44,302.95,3,4,3,4,3,5,9.0,2.0,21,Residencial,Cima,Lançamento,17/03/2026 13:00:51,2026-04-08
-21318,Aventus Residences,Curitiba,PR,Bigorrilho,Pronto novo,Pronto novo,1628000.0,11488,141.71,154.73,3,3,3,3,2,3,10.0,4.0,6,Residencial,Cima,Lançamento,17/03/2026 03:35:05,2026-04-08
-68167,Cedrat,Curitiba,PR,Água Verde,Em construção,Em construção,2002000.0,14199,141.0,159.0,2,3,2,3,2,3,34.0,4.0,49,Residencial,Cima,Lançamento,17/03/2026 03:28:50,2026-04-08
-61035,New England,Curitiba,PR,Novo Mundo,Pronto novo,Pronto novo,269000.0,12009,21.95,23.0,1,1,0,0,0,0,7.0,9.0,8,Residencial,Alcance Engenharia,Lançamento,17/03/2026 02:22:15,2026-04-08
-67931,Sense 1910,Curitiba,PR,Lindóia,Em construção,Em construção,171090.0,9189,18.62,40.79,1,1,0,0,0,0,6.0,8.0,36,Residencial,Benvecon,Lançamento,17/03/2026 01:41:27,2026-04-08
-34850,TJM 526,Curitiba,PR,Capão Raso,Pronto novo,Pronto novo,503662.22,10732,46.86,56.62,2,2,0,1,1,2,7.0,6.0,5,Residencial,Treèle,Lançamento,16/03/2026 18:34:48,2026-04-08
-76889,Gran Pallazo VI,Curitiba,PR,Jardim Social,Em construção,Lançamento,1884450.0,8525,221.06,247.19,3,3,1,3,3,3,,,5,Residencial,Arbo Empreendimentos,Lançamento,16/03/2026 12:10:22,2026-04-08
-49266,Yes Ecoville,Curitiba,PR,Mossunguê,Em construção,Em construção,618963.02,11071,55.21,57.26,2,2,1,1,1,1,6.0,6.0,46,Residencial,TM3 Incorporadora PR,Lançamento,14/03/2026 02:31:27,2026-04-08
-23971,Corporate Emiliano,Curitiba,PR,Centro,Pronto novo,Pronto novo,12202923.0,12993,939.17,939.17,0,0,0,0,0,0,3.0,2.0,1,Comercial,Invespark,Lançamento,14/03/2026 02:08:14,2026-04-08
-55779,B41,Curitiba,PR,Prado Velho,Em construção,Em construção,530393.09,17384,30.51,35.0,1,4,0,0,0,0,7.0,42.0,9,Residencial,ALTMA,Lançamento,14/03/2026 00:36:13,2026-04-08
-37593,Maison Joie,Curitiba,PR,Portão,Pronto novo,Pronto novo,799209.0,6468,123.56,123.56,3,3,1,1,1,1,,,1,Residencial,HRC,Lançamento,13/03/2026 23:41:18,2026-04-08
-76890,Gran Pallazo V,Curitiba,PR,Uberaba,Em construção,Lançamento,797000.0,5046,121.86,157.95,3,3,1,1,1,1,,,6,Residencial,Arbo Empreendimentos,Lançamento,13/03/2026 22:39:56,2026-04-08
-67575,Sun Tower,Curitiba,PR,Novo Mundo,Pronto novo,Pronto novo,584249.0,9683,60.2,122.07,2,3,1,1,1,1,9.0,6.0,24,Residencial,HRC,Lançamento,13/03/2026 21:20:38,2026-04-08
-70912,Manaii,Curitiba,PR,Boa Vista,Em construção,Em construção,899000.0,7377,121.86,122.71,3,3,1,1,2,2,,,4,Residencial,Alcance Engenharia,Lançamento,12/03/2026 20:23:04,2026-04-08
-65951,The Balance,Curitiba,PR,Bigorrilho,Em construção,Em construção,415000.0,18976,21.87,87.15,1,1,0,1,0,1,8.0,12.0,10,Residencial,O3 Empreendimentos,Lançamento,12/03/2026 11:48:43,2026-04-08
-36360,Oxygen,Curitiba,PR,Batel,Pronto novo,Pronto novo,585000.0,19275,24.0,95.75,1,1,0,1,0,1,8.0,8.0,7,Residencial,O3 Empreendimentos,Lançamento,12/03/2026 11:48:43,2026-04-08
-24045,Varanda Barigui - Residencial,Curitiba,PR,Champagnat,Pronto novo,Pronto novo,2810520.24,17122,164.15,260.23,3,3,3,3,3,4,25.0,2.0,12,Residencial,Invescon,Lançamento,12/03/2026 04:24:48,2026-04-08
-64732,Wish Champagnat,Curitiba,PR,Bigorrilho,Em construção,Em construção,1685850.92,18459,91.33,231.93,2,3,2,3,2,3,6.0,3.0,5,Residencial,Vinci Empreendimentos,Lançamento,12/03/2026 01:34:33,2026-04-08
-957,Lifespace Sete de Setembro - Comercial,Curitiba,PR,Centro,Pronto novo,Pronto novo,499565.4,6170,80.97,80.97,0,0,0,0,0,0,28.0,17.0,1,Comercial,Invespark,Lançamento,11/03/2026 21:07:12,2026-04-08
-997,Workspace Emiliano,Curitiba,PR,Batel,Pronto novo,Pronto novo,2473605.0,11624,212.81,212.81,0,0,0,0,0,0,18.0,9.0,1,Comercial,Invespark,Lançamento,11/03/2026 21:04:28,2026-04-08
-23238,Hyde Park - Lojas,Curitiba,PR,Centro,Pronto novo,Pronto novo,670000.0,4370,153.32,153.32,0,0,0,0,0,0,1.0,10.0,1,Comercial,Invespark,Lançamento,11/03/2026 20:23:48,2026-04-08
-36783,Landhaus,Curitiba,PR,Ecoville,Pronto novo,Pronto novo,2962890.0,15301,193.54,321.69,3,3,3,3,4,4,12.0,4.0,23,Residencial,Plaenge PR,Lançamento,11/03/2026 16:13:00,2026-04-08
-71657,Zurich,Curitiba,PR,Bacacheri,Em construção,Em construção,248950.0,10469,23.43,54.52,1,1,0,0,0,1,6.0,11.0,41,Residencial,Alcance Engenharia,Lançamento,11/03/2026 15:13:31,2026-04-08
-80194,Napoli,Curitiba,PR,Portão,Em construção,Lançamento,216000.0,11453,18.86,43.15,1,1,0,0,0,0,8.0,12.0,26,Residencial,Spazio Construtora,Lançamento,10/03/2026 10:59:43,2026-04-08
-80195,Firenze,Curitiba,PR,Seminário,Pronto novo,Pronto novo,790000.0,9931,79.55,142.08,3,3,3,3,2,3,6.0,4.0,4,Residencial,Spazio Construtora,Lançamento,10/03/2026 10:59:43,2026-04-08
-80198,Nilo,Curitiba,PR,Bom Retiro,Em construção,Em construção,225000.0,13620,16.52,22.99,1,1,0,0,0,0,4.0,9.0,5,Residencial,FWD Incorporadora,Lançamento,10/03/2026 10:59:14,2026-04-08
-74616,Aveon,Curitiba,PR,Alto da XV,Em construção,Em construção,351729.0,9181,38.31,52.31,1,1,0,0,0,0,2.0,9.0,3,Residencial,Calure,Lançamento,10/03/2026 09:33:03,2026-04-08
-61185,Piazza di Roma,Curitiba,PR,Água Verde,Em construção,Em construção,364915.5,12357,29.53,127.35,1,2,0,1,0,0,15.0,9.0,41,Residencial,Alô Incorp,Lançamento,10/03/2026 03:03:36,2026-04-08
-64409,Torre Ferrara,Curitiba,PR,Santa Cândida,Em construção,Em construção,477862.73,8776,47.72,57.94,2,3,1,1,1,2,9.0,16.0,18,Residencial,JCD Empreendimentos,Lançamento,10/03/2026 01:01:31,2026-04-08
-62411,Costa Ecoville,Curitiba,PR,Campo Comprido,Em construção,Em construção,601595.0,12965,46.11,148.1,1,3,0,1,1,2,5.0,8.0,10,Residencial,MB Costa Incorporadora,Lançamento,09/03/2026 20:09:07,2026-04-08
-35038,Plural,Curitiba,PR,Água Verde,Pronto novo,Pronto novo,455239.68,14819,30.72,145.78,1,3,0,2,0,2,9.0,8.0,11,Residencial,Construtora Pessoa,Lançamento,06/03/2026 11:19:26,2026-04-08
-37103,Lemme,Curitiba,PR,Água Verde,Em construção,Em construção,2567732.62,19065,134.68,312.49,2,3,2,3,2,3,8.0,6.0,9,Residencial,Bidese,Lançamento,05/03/2026 23:27:44,2026-04-08
-50108,Aurea 777,Curitiba,PR,Bigorrilho,Em construção,Em construção,2399000.0,17801,134.77,134.77,3,3,3,3,2,2,10.0,2.0,5,Residencial,Opera Prima,Lançamento,05/03/2026 23:08:54,2026-04-08
-19676,Edifício Greca Tower,Curitiba,PR,Água Verde,Em construção,Em construção,2750000.0,17697,155.39,317.25,3,4,3,4,2,4,23.0,2.0,11,Residencial,Bouw,Lançamento,05/03/2026 03:55:35,2026-04-08
-28611,Itá Rare Homes,Curitiba,PR,Juvevê,Em construção,Em construção,1309422.0,13617,96.16,156.95,2,3,2,3,2,3,6.0,3.0,13,Residencial,TM3 Incorporadora PR,Lançamento,04/03/2026 16:22:38,2026-04-08
-35952,Arte Acqua,Curitiba,PR,Água Verde,Pronto novo,Pronto novo,1188000.0,13207,89.95,170.51,2,3,1,2,2,3,8.0,4.0,2,Residencial,Artesa Construtora,Lançamento,04/03/2026 11:26:58,2026-04-08
-25522,Solenne,Curitiba,PR,Juvevê,Pronto novo,Pronto novo,1803045.0,15141,111.77,119.08,3,3,1,1,2,2,6.0,7.0,2,Residencial,Piemonte PR,Lançamento,04/03/2026 11:24:50,2026-04-08
-73076,Hagen Residencial,Curitiba,PR,Capão Raso,Em construção,Em construção,258720.0,10500,24.64,72.64,1,3,0,1,0,1,6.0,9.0,41,Residencial,USC Fernandes,Lançamento,04/03/2026 09:40:03,2026-04-08
-74103,Paros Residencial,Curitiba,PR,Alto Boqueirão,Pronto novo,Pronto novo,525300.0,5921,88.45,88.72,3,3,1,1,1,1,,,5,Residencial,USC Fernandes,Lançamento,04/03/2026 09:39:45,2026-04-08
-30752,Vila Unika,Curitiba,PR,Santa Felicidade,Pronto novo,Pronto novo,1624137.95,9718,160.57,175.12,3,3,3,3,2,2,,,16,Residencial,TM3 Incorporadora PR,Lançamento,04/03/2026 00:19:48,2026-04-08
-53143,Hike,Curitiba,PR,Boa Vista,Em construção,Em construção,699700.0,10917,64.09,181.68,2,3,1,1,1,2,8.0,6.0,17,Residencial,Auten,Lançamento,03/03/2026 20:13:31,2026-04-08
-51193,Dom Gabardo,Curitiba,PR,Capão Raso,Pronto novo,Pronto novo,495225.0,8297,59.69,98.99,2,3,1,1,1,1,5.0,5.0,5,Residencial,USC Fernandes,Lançamento,03/03/2026 19:21:23,2026-04-08
-73388,O2 Concept Mercês,Curitiba,PR,Mercês,Em construção,Em construção,345224.69,15235,22.66,35.0,1,1,0,0,0,1,9.0,8.0,21,Residencial,O2 Incorporadora,Lançamento,03/03/2026 12:36:10,2026-04-08
-74410,Plaenge Design by Pininfarina - Breve Lançamento,Curitiba,PR,Ecoville,Em construção,Lançamento,0.1,0,273.0,527.0,3,4,3,4,3,4,,,1,Residencial,Plaenge PR,Lançamento,03/10/2025 13:06:10,2026-04-08
-76245,London Life,Londrina,PR,Cilo 3,Em construção,Lançamento,242300.18,6134,39.5,39.5,2,2,0,0,1,1,7,4,3,Residencial,Pride,Lançamento,08/04/2026 09:05:04,2026-04-08
-70223,Felicce,Londrina,PR,Vista Bela,Em construção,Em construção,224400.0,6265,35.82,48.99,2,2,0,0,1,1,7,4,187,Residencial,Pride,Lançamento,08/04/2026 08:45:03,2026-04-08
-68719,Solare Essenza,Londrina,PR,Jardim Nova Esperança,Em construção,Em construção,213400.0,5958,35.82,35.82,2,2,0,0,1,1,10,4,223,Residencial,Pride,Lançamento,08/04/2026 08:38:21,2026-04-08
-77790,Solare Fiore - Fase 1,Londrina,PR,Nova Esperança,Em construção,Lançamento,209500.0,5849,35.82,35.82,2,2,0,0,1,1,10,4,1,Residencial,Pride,Lançamento,08/04/2026 08:31:35,2026-04-08
-65461,London Plaza,Londrina,PR,Cilo 3,Em construção,Em construção,242500.0,6139,39.5,39.5,2,2,0,0,1,1,7,4,127,Residencial,Pride,Lançamento,08/04/2026 08:16:19,2026-04-08
-65459,London Blue - Fase 2,Londrina,PR,Vista Bela,Pronto novo,Pronto novo,245000.0,5290,46.31,46.31,2,2,0,0,1,1,7,4,1,Residencial,Pride,Lançamento,08/04/2026 08:10:18,2026-04-08
-65417,Sonne,Londrina,PR,Cilo 3,Em construção,Em construção,219000.0,6114,35.82,35.82,2,2,0,0,1,1,7,4,1,Residencial,Pride,Lançamento,08/04/2026 08:04:21,2026-04-08
-69088,Porto Horizonte,Londrina,PR,Conjunto Habitacional Jamile Dequech,Em construção,Em construção,243778.0,5728,42.56,42.56,2,2,0,0,0,0,4,4,8,Residencial,Rottas Construtora,Lançamento,07/04/2026 00:14:48,2026-04-08
+﻿id,nome,cidade,estado,bairro,status,fase,data_lancamento,data_entrega,total_unidades,preco_minimo,preco_m2_privativo,area_minima_m2,area_maxima_m2,quartos_min,quartos_max,suites_min,suites_max,vagas_min,vagas_max,andares,aptos_por_andar,estoque,finalidade,construtora,portfolio,atualizado_em,data_extracao
+69089,Porto Bella Vista,Ponta Grossa,PR,Colônia Dona Luíza,Em construção,Em construção,01/09/2024,31/08/2026,121.0,234000.0,5527,42.34,46.47,2,2,0,0,1,1,,,27,Residencial,Rottas Construtora,Lançamento,06/04/2026 22:21:01,2026-04-08
+69059,Campobello Gold - Fase 2,Ponta Grossa,PR,Colônia Dona Luíza,Em construção,Em construção,01/09/2024,31/08/2026,220.0,215000.0,5078,42.34,46.47,2,2,0,0,1,1,,,11,Residencial,Rottas Construtora,Lançamento,06/04/2026 22:10:42,2026-04-08
+63517,Porto Alto,Curitiba,PR,Mercês,Em construção,Em construção,01/09/2024,30/10/2026,24.0,1551185.08,16931,91.62,267.44,3,3,1,3,2,3,4.0,6.0,15,Residencial,Construtora Pessoa,Lançamento,24/03/2026 14:34:52,2026-04-08
+24892,Trebbiano Residencial - Fase 1,Curitiba,PR,Campo Comprido,Pronto novo,Pronto novo,01/10/2021,30/06/2024,115.0,1139282.81,13074,74.57,142.54,2,3,1,3,1,2,12.0,6.0,14,Residencial,Equilíbrio,Lançamento,02/04/2026 01:25:14,2026-04-08
+80191,Izar - Breve Lançamento,Curitiba,PR,Bigorrilho,Em construção,Lançamento,12/03/2026,30/12/2028,0.0,0.1,0,93.5,193.29,2,3,2,3,1,3,10.0,2.0,1,Residencial,AGL,Lançamento,06/04/2026 09:41:51,2026-04-08
+36149,Joy City Habitat,Curitiba,PR,Tingui,Em construção,Em construção,01/09/2022,30/04/2026,40.0,635442.48,8314,76.43,76.43,3,3,1,1,1,1,5.0,8.0,2,Residencial,Hype,Lançamento,08/04/2026 10:56:00,2026-04-08
+28948,Sollaris Residencial,Curitiba,PR,Tingui,Pronto novo,Pronto novo,30/01/2022,15/12/2023,42.0,553006.94,7658,56.98,72.21,2,2,1,1,1,1,8.0,6.0,3,Residencial,Coral Engenharia,Lançamento,08/04/2026 10:55:46,2026-04-08
+16616,Condomínio Mood,Curitiba,PR,Bacacheri,Pronto novo,Pronto novo,02/10/2019,30/12/2022,167.0,970842.0,11808,82.22,212.49,2,3,1,2,1,3,6.0,8.0,16,Residencial,Coral Engenharia,Lançamento,08/04/2026 10:46:51,2026-04-08
+22369,Allure Residencial,Curitiba,PR,Boa Vista,Pronto novo,Pronto novo,02/08/2021,30/07/2024,92.0,595676.82,9591,62.11,123.57,2,2,1,2,1,2,8.0,6.0,6,Residencial,Coral Engenharia,Lançamento,08/04/2026 10:46:47,2026-04-08
+77172,Quintal do Paiol,Curitiba,PR,Rebouças,Em construção,Lançamento,01/11/2025,31/08/2028,52.0,230000.0,10227,22.49,25.28,1,1,0,0,0,0,4.0,13.0,38,Residencial,Reus Construtora,Lançamento,08/04/2026 10:34:32,2026-04-08
+70845,Civitas - Studios,Curitiba,PR,Centro Cívico,Em construção,Em construção,03/07/2025,31/07/2028,130.0,344357.03,16905,20.37,45.09,1,1,0,0,0,0,10.0,16.0,18,Residencial,Blue,Lançamento,08/04/2026 10:34:27,2026-04-08
+63588,Aya Carlos de Carvalho - Residencial,Curitiba,PR,Centro,Em construção,Em construção,01/11/2024,30/11/2029,882.0,418164.76,16909,24.28,49.25,1,1,0,1,0,0,32.0,38.0,271,Residencial,Blue,Lançamento,08/04/2026 10:32:20,2026-04-08
+73318,Aya Amintas - Residencial,Curitiba,PR,Centro,Em construção,Em construção,10/09/2025,31/03/2030,489.0,352382.55,14034,23.84,50.52,1,2,0,2,0,0,29.0,19.0,143,Residencial,Blue,Lançamento,08/04/2026 10:29:55,2026-04-08
+51859,Aya - Residencial,Curitiba,PR,Centro,Em construção,Em construção,18/10/2023,30/10/2027,533.0,348000.0,15683,22.19,54.54,1,2,0,2,0,0,35.0,21.0,39,Residencial,Blue,Lançamento,08/04/2026 10:26:55,2026-04-08
+80094,Solare Di Vicenza,Curitiba,PR,Bacacheri,Em construção,Em construção,01/12/2022,01/05/2026,43.0,755140.72,10944,69.0,184.26,2,3,1,3,1,1,,,32,Residencial,MDI Construtora,Lançamento,08/04/2026 10:14:05,2026-04-08
+80136,Solare Di Veneza,Curitiba,PR,Bacacheri,Pronto novo,Pronto novo,01/12/2021,31/12/2024,46.0,769788.52,11663,66.0,190.0,2,3,1,3,1,1,8.0,6.0,16,Residencial,MDI Construtora,Lançamento,08/04/2026 10:13:29,2026-04-08
+74356,Platea 19,Curitiba,PR,Centro,Em construção,Em construção,01/04/2025,31/05/2028,112.0,342267.86,14927,22.93,52.27,1,1,0,0,0,0,16.0,8.0,24,Residencial,108 Incorporações,Lançamento,08/04/2026 10:06:51,2026-04-08
+23404,Condomínio Colinas do Norte,Curitiba,PR,Santa Cândida,Pronto novo,Pronto novo,01/07/2021,30/03/2024,160.0,373398.94,7769,45.19,48.06,2,2,0,0,1,1,4.0,8.0,3,Residencial,Treèle,Lançamento,08/04/2026 09:30:06,2026-04-08
+69427,Bioma,Curitiba,PR,Ahú,Em construção,Em construção,01/09/2025,05/12/2029,50.0,1348089.17,14576,90.0,309.44,2,4,1,4,2,3,8.0,8.0,24,Residencial,ATR Incorporadora PR,Lançamento,08/04/2026 09:21:46,2026-04-08
+61398,N.A.U Juvevê,Curitiba,PR,Juvevê,Em construção,Em construção,01/09/2024,30/05/2027,29.0,2028000.0,14379,136.83,243.01,3,3,3,3,2,3,8.0,4.0,17,Residencial,Maken,Lançamento,08/04/2026 09:21:32,2026-04-08
+62200,Atmos,Curitiba,PR,Centro,Em construção,Em construção,22/11/2024,30/09/2028,326.0,400916.88,14257,28.12,40.45,1,2,0,0,0,0,15.0,28.0,3,Residencial,ATR Incorporadora PR,Lançamento,08/04/2026 09:19:34,2026-04-08
+79265,Mavie,Curitiba,PR,Boa Vista,Em construção,Lançamento,13/02/2026,30/09/2028,64.0,498404.59,8843,56.36,77.77,2,3,1,1,1,2,8.0,8.0,52,Residencial,Coral Engenharia,Lançamento,08/04/2026 09:09:41,2026-04-08
+48851,Mytá,Curitiba,PR,Bigorrilho,Em construção,Em construção,28/09/2023,30/11/2026,24.0,2881918.09,19493,147.84,235.89,3,3,3,3,2,2,7.0,5.0,6,Residencial,ALTMA,Lançamento,08/04/2026 09:05:53,2026-04-08
+71776,Bliss Cuore - Fase 1,Curitiba,PR,Hauer,Em construção,Em construção,08/08/2025,29/02/2028,64.0,546975.0,8792,62.21,62.21,2,2,1,1,1,1,8.0,4.0,48,Residencial,Incorporare,Lançamento,08/04/2026 09:05:12,2026-04-08
+63155,New Place Pinheirinho,Curitiba,PR,Pinheirinho,Pronto novo,Pronto novo,01/04/2024,28/12/2025,56.0,388353.95,2551,152.23,253.35,0,0,0,0,0,0,,,18,Residencial,Incorporare,Lançamento,08/04/2026 09:00:25,2026-04-08
+72205,Bliss Cuore - Fase 2,Curitiba,PR,Hauer,Em construção,Em construção,08/08/2025,08/08/2028,128.0,541450.0,8704,62.21,75.14,2,3,1,1,1,1,8.0,4.0,59,Residencial,Incorporare,Lançamento,08/04/2026 08:58:01,2026-04-08
+72166,New Place Pinheirinho II,Curitiba,PR,Pinheirinho,Em construção,Em construção,01/06/2025,30/06/2028,31.0,285977.63,1575,147.0,284.1,0,0,0,0,0,0,,,21,Residencial,Incorporare,Lançamento,08/04/2026 08:52:31,2026-04-08
+69234,Cosmo Hype Living,Curitiba,PR,Alto da Rua XV,Em construção,Em construção,31/07/2025,31/07/2029,128.0,411900.0,15433,26.23,70.97,1,3,0,2,0,2,7.0,22.0,37,Residencial,Hype,Lançamento,08/04/2026 08:48:43,2026-04-08
+69898,Core Palácio,Curitiba,PR,Centro,Em construção,Em construção,01/07/2025,31/08/2028,429.0,353121.33,15722,22.46,53.8,1,2,0,1,0,1,19.0,26.0,137,Residencial,Gadens,Lançamento,08/04/2026 08:45:04,2026-04-08
+70491,Casa Jobim,Curitiba,PR,Campina do Siqueira,Em construção,Em construção,26/06/2025,30/06/2029,61.0,2313490.0,19631,117.85,214.58,2,3,2,3,2,3,32.0,3.0,30,Residencial,GT Building,Lançamento,08/04/2026 08:45:03,2026-04-08
+70152,Turin,Curitiba,PR,Batel,Em construção,Em construção,15/06/2024,27/04/2027,135.0,712870.0,21975,31.58,71.81,1,2,0,1,0,0,18.0,9.0,39,Residencial,GT Building,Lançamento,08/04/2026 08:38:45,2026-04-08
+19698,Casa Milano,Curitiba,PR,Bigorrilho,Pronto novo,Pronto novo,30/04/2021,30/09/2025,90.0,2477570.0,19356,127.0,315.0,2,4,2,4,2,4,30.0,4.0,6,Residencial,GT Building,Lançamento,08/04/2026 08:36:52,2026-04-08
+54051,Atlân,Curitiba,PR,Água Verde,Em construção,Em construção,31/01/2024,30/12/2026,60.0,1876440.0,20677,90.75,267.85,2,3,1,3,2,3,8.0,4.0,15,Residencial,GT Building,Lançamento,08/04/2026 08:35:01,2026-04-08
+25320,Explore Botânico - Residencial,Curitiba,PR,Cristo Rei,Pronto novo,Pronto novo,01/11/2021,30/05/2025,184.0,809940.0,13245,61.15,81.22,2,3,1,1,1,1,27.0,8.0,14,Residencial,GT Building,Lançamento,08/04/2026 08:35:00,2026-04-08
+56884,Kóra,Curitiba,PR,Portão,Em construção,Em construção,03/06/2024,28/12/2027,84.0,1053802.45,12155,81.4,118.3,2,3,1,3,1,2,19.0,5.0,47,Residencial,AGL,Lançamento,08/04/2026 08:35:00,2026-04-08
+56756,Lange,Curitiba,PR,Batel,Em construção,Em construção,15/06/2024,27/04/2027,273.0,614780.0,23949,25.0,93.0,1,2,0,1,0,1,10.0,12.0,54,Residencial,GT Building,Lançamento,08/04/2026 08:33:36,2026-04-08
+30713,Sou Ecoville,Curitiba,PR,Cidade Industrial,Pronto novo,Pronto novo,01/06/2022,30/06/2024,132.0,539760.0,12245,44.08,44.08,2,2,0,0,1,1,7.0,12.0,1,Residencial,GT Building,Lançamento,08/04/2026 08:32:46,2026-04-08
+66296,Tekoá,Curitiba,PR,São Francisco,Em construção,Em construção,08/04/2025,30/07/2026,71.0,342051.03,11171,27.0,49.0,1,1,0,1,0,0,6.0,12.0,39,Residencial,Coral Engenharia,Lançamento,08/04/2026 08:29:42,2026-04-08
+47096,Amáz,Curitiba,PR,Mercês,Em construção,Em construção,01/05/2023,30/09/2026,45.0,3753420.0,19579,164.76,308.66,3,4,3,4,3,4,8.0,3.0,21,Residencial,GT Building,Lançamento,08/04/2026 08:29:41,2026-04-08
+64404,The Pineyards,Curitiba,PR,Cabral,Em construção,Em construção,01/11/2024,28/12/2027,51.0,2304460.0,18489,123.67,236.58,2,4,1,4,2,4,8.0,4.0,20,Residencial,GT Building,Lançamento,08/04/2026 08:28:14,2026-04-08
+28671,Temple Batel,Curitiba,PR,Batel,Pronto novo,Pronto novo,01/02/2022,30/11/2024,102.0,839930.0,26513,31.68,53.87,1,1,0,0,0,0,10.0,12.0,17,Residencial,GT Building,Lançamento,08/04/2026 08:26:27,2026-04-08
+30718,Ares Juvevê,Curitiba,PR,Juvevê,Pronto novo,Pronto novo,01/08/2022,28/02/2025,73.0,770064.25,13928,55.29,157.87,2,3,1,1,1,2,8.0,10.0,21,Residencial,Gadens,Lançamento,08/04/2026 08:22:33,2026-04-08
+68369,Bosque Hype Casa Nativa,Curitiba,PR,São Francisco,Em construção,Em construção,24/04/2025,30/09/2028,41.0,412900.0,16957,24.17,85.09,1,2,0,2,0,2,4.0,12.0,10,Residencial,Hype,Lançamento,08/04/2026 08:20:17,2026-04-08
+66329,Bliss Campus,Curitiba,PR,Prado Velho,Em construção,Em construção,01/12/2024,28/12/2026,64.0,574405.27,7622,75.36,75.36,3,3,1,1,1,1,8.0,4.0,11,Residencial,Incorporare,Lançamento,08/04/2026 08:16:16,2026-04-08
+76046,Harmony Gardens,Curitiba,PR,Campo Comprido,Em construção,Lançamento,03/11/2025,30/11/2027,114.0,887477.82,5547,152.0,424.65,0,0,0,0,0,0,,,85,Residencial,Andrade Ribeiro,Lançamento,08/04/2026 08:15:05,2026-04-08
+66367,Give City Habitat,Curitiba,PR,Capão Raso,Em construção,Em construção,07/01/2025,02/04/2029,126.0,312900.0,11441,27.35,58.22,1,2,0,1,0,1,7.0,18.0,31,Residencial,Hype,Lançamento,08/04/2026 08:14:23,2026-04-08
+6005,Bosco Centrale,Curitiba,PR,Centro,Pronto novo,Pronto novo,01/04/2020,30/01/2023,99.0,967554.03,13305,72.72,116.37,2,3,1,1,1,2,22.0,6.0,14,Residencial,Gadens,Lançamento,08/04/2026 08:14:21,2026-04-08
+42424,Morá Refúgio Urbano,Curitiba,PR,Centro,Pronto novo,Pronto novo,15/04/2023,30/11/2025,240.0,321486.97,16606,19.36,51.4,1,2,0,0,0,1,18.0,16.0,26,Residencial,Gadens,Lançamento,08/04/2026 08:12:34,2026-04-08
+62131,Idea Studi Inteligenti,Curitiba,PR,Boa Vista,Em construção,Em construção,02/04/2023,28/06/2026,255.0,308406.38,10852,26.73,35.5,1,1,0,0,0,0,9.0,29.0,106,Residencial,Coral Engenharia,Lançamento,08/04/2026 08:07:00,2026-04-08
+38720,High City Habitat 1 (Torre A e B),Curitiba,PR,Novo Mundo,Em construção,Em construção,01/02/2023,25/11/2026,130.0,346900.0,13002,26.68,66.04,1,3,0,1,0,1,7.0,10.0,7,Residencial,Hype,Lançamento,08/04/2026 08:04:20,2026-04-08
+54768,Galeria Hype Casa Nativa,Curitiba,PR,Juvevê,Em construção,Em construção,11/03/2024,30/03/2028,42.0,892278.48,12705,70.23,107.95,3,3,1,3,1,2,7.0,6.0,24,Residencial,Hype,Lançamento,08/04/2026 08:02:07,2026-04-08
+66211,High City Habitat 2 (Torre C),Curitiba,PR,Novo Mundo,Em construção,Em construção,01/02/2023,25/11/2026,70.0,352900.0,12016,29.37,70.1,1,3,0,1,0,1,7.0,10.0,5,Residencial,Hype,Lançamento,08/04/2026 08:00:18,2026-04-08
+49332,Blossom Urban Habitat,Curitiba,PR,Bacacheri,Em construção,Em construção,04/06/2023,30/11/2027,49.0,543900.0,9400,57.86,88.36,2,3,1,1,1,1,7.0,8.0,3,Residencial,Hype,Lançamento,08/04/2026 08:00:16,2026-04-08
+56949,Stone Urban Habitat,Curitiba,PR,Novo Mundo,Em construção,Em construção,01/04/2024,30/04/2028,70.0,669687.28,9297,70.91,72.03,3,3,1,1,1,2,7.0,10.0,3,Residencial,Hype,Lançamento,08/04/2026 07:58:38,2026-04-08
+47704,Cravo Casa Nativa,Curitiba,PR,Portão,Em construção,Em construção,02/05/2023,15/11/2027,28.0,746234.48,11276,66.18,128.33,2,3,1,3,1,2,7.0,4.0,10,Residencial,Hype,Lançamento,08/04/2026 07:58:03,2026-04-08
+36150,Nest Urban Habitat,Curitiba,PR,Bacacheri,Pronto novo,Pronto novo,01/09/2022,30/03/2026,56.0,646521.68,7506,86.13,86.13,2,2,1,1,1,1,8.0,7.0,1,Residencial,Hype,Lançamento,08/04/2026 07:55:09,2026-04-08
+35302,Concept Le Monde,Curitiba,PR,Portão,Em construção,Em construção,28/07/2022,31/05/2026,200.0,571580.7,11181,51.12,70.0,2,3,0,1,1,2,9.0,26.0,15,Residencial,Realmarka Construções,Lançamento,08/04/2026 07:47:58,2026-04-08
+51945,Mantiqueira,Curitiba,PR,Bairro Alto,Em construção,Em construção,20/09/2023,28/02/2028,42.0,478000.0,9827,48.64,103.13,2,3,0,1,1,2,7.0,6.0,25,Residencial,Quest Construtora,Lançamento,08/04/2026 07:43:48,2026-04-08
+57684,Fortune,Curitiba,PR,Hauer,Em construção,Em construção,19/07/2024,28/10/2027,80.0,289100.12,13058,22.14,56.67,1,3,0,1,0,1,9.0,10.0,33,Residencial,Realmarka Construções,Lançamento,08/04/2026 07:38:21,2026-04-08
+40095,Audace,Curitiba,PR,Centro,Em construção,Em construção,01/02/2023,31/12/2026,83.0,723900.0,12132,59.67,177.44,2,3,1,1,1,2,8.0,6.0,11,Residencial,Pride,Lançamento,08/04/2026 07:25:17,2026-04-08
+52282,Augen,Curitiba,PR,Campina do Siqueira,Em construção,Em construção,01/12/2023,31/12/2026,72.0,917300.0,13749,66.72,69.17,2,2,1,1,1,1,13.0,6.0,4,Residencial,Pride,Lançamento,08/04/2026 07:22:30,2026-04-08
+52284,Zait,Curitiba,PR,Mercês,Em construção,Em construção,01/12/2023,31/07/2027,68.0,485200.0,15345,31.03,107.86,1,1,0,1,0,0,9.0,8.0,26,Residencial,Pride,Lançamento,08/04/2026 07:22:30,2026-04-08
+35183,Uno Solare,Curitiba,PR,Portão,Em construção,Em construção,01/10/2022,31/12/2026,188.0,380400.0,12407,24.85,60.11,1,2,0,1,0,1,22.0,9.0,31,Residencial,Pride,Lançamento,08/04/2026 07:18:00,2026-04-08
+74026,Linea,Curitiba,PR,Portão,Em construção,Em construção,01/10/2025,31/12/2029,230.0,990570.0,15237,62.64,89.8,2,3,1,2,1,1,33.0,8.0,79,Residencial,GT Building,Lançamento,08/04/2026 07:17:56,2026-04-08
+53963,Vittace Bosque - Fase 2,Curitiba,PR,Capão Raso,Em construção,Em construção,01/06/2024,31/03/2027,192.0,369612.0,8368,44.17,58.07,2,3,0,1,1,1,4.0,4.0,8,Residencial,Prestes,Lançamento,08/04/2026 07:14:29,2026-04-08
+50112,Moní,Curitiba,PR,Alto da Glória,Em construção,Em construção,11/11/2023,30/11/2026,123.0,398312.5,14474,26.87,91.78,1,2,0,2,0,2,9.0,17.0,24,Residencial,AGL,Lançamento,08/04/2026 07:06:48,2026-04-08
+39085,Eleva Hauer - Fase 1,Curitiba,PR,Hauer,Pronto novo,Pronto novo,01/11/2022,30/12/2025,120.0,473229.61,9923,47.69,51.22,2,2,0,1,1,1,8.0,8.0,2,Residencial,Prestes,Lançamento,08/04/2026 06:39:54,2026-04-08
+50579,LIV.IN,Curitiba,PR,Campo Comprido,Em construção,Em construção,01/11/2023,30/06/2028,128.0,597589.59,8931,57.76,66.91,2,3,1,1,1,1,8.0,8.0,65,Residencial,Prestes,Lançamento,08/04/2026 04:02:28,2026-04-08
+62038,Opulus,Curitiba,PR,Água Verde,Em construção,Em construção,01/08/2024,31/08/2026,28.0,1147923.88,14689,78.15,141.81,2,4,1,3,1,2,8.0,4.0,17,Residencial,Coral Engenharia,Lançamento,08/04/2026 03:44:45,2026-04-08
+64406,Sorano,Curitiba,PR,Novo Mundo,Em construção,Em construção,01/11/2024,30/11/2028,375.0,477000.0,10685,44.64,47.94,2,2,1,1,1,1,18.0,15.0,35,Residencial,Pride,Lançamento,08/04/2026 02:14:08,2026-04-08
+36157,ÉQÜI,Curitiba,PR,Seminário,Em construção,Em construção,01/09/2022,20/12/2026,61.0,883997.0,13151,65.13,189.46,2,3,1,1,1,2,4.0,17.0,10,Residencial,Rottas Construtora,Lançamento,08/04/2026 02:09:33,2026-04-08
+72207,Fresta Hype Living,Curitiba,PR,Centro,Em construção,Lançamento,15/04/2026,31/12/2030,766.0,357900.0,15000,23.86,48.36,1,2,0,1,0,0,32.0,30.0,132,Residencial,Hype,Lançamento,08/04/2026 00:16:43,2026-04-08
+76377,Dot - Lojas,Curitiba,PR,Capão Raso,Em construção,Lançamento,30/11/2025,30/04/2029,16.0,314000.0,7316,42.92,126.96,0,0,0,0,0,0,1.0,16.0,3,Comercial,Quest Construtora,Lançamento,07/04/2026 23:44:41,2026-04-08
+76372,Dot - Residencial,Curitiba,PR,Capão Raso,Em construção,Lançamento,30/11/2025,30/04/2029,152.0,335000.0,11318,29.6,60.0,1,2,0,1,0,2,23.0,8.0,117,Residencial,Quest Construtora,Lançamento,07/04/2026 23:40:23,2026-04-08
+75838,Elos Novo Prado,Curitiba,PR,Prado Velho,Em construção,Lançamento,10/11/2025,30/04/2029,214.0,330229.44,9761,33.63,33.98,2,2,0,0,1,1,11.0,10.0,109,Residencial,Blue,Lançamento,07/04/2026 21:36:12,2026-04-08
+57358,Novo Prado Araucária,Curitiba,PR,Prado Velho,Em construção,Em construção,01/05/2024,15/12/2027,176.0,432369.66,9276,45.68,56.37,2,3,1,1,1,1,12.0,8.0,60,Residencial,Blue,Lançamento,07/04/2026 21:35:57,2026-04-08
+70850,Civitas - Lojas,Curitiba,PR,Centro Cívico,Em construção,Em construção,03/07/2025,31/07/2028,2.0,538118.41,16557,32.5,32.5,0,0,0,0,0,0,1.0,2.0,2,Comercial,Blue,Lançamento,07/04/2026 21:34:00,2026-04-08
+26610,Plus Portão,Curitiba,PR,Portão,Pronto novo,Pronto novo,19/03/2022,30/09/2025,263.0,364900.0,12412,29.3,77.2,1,2,0,0,0,0,20.0,18.0,10,Residencial,Blue,Lançamento,07/04/2026 21:33:52,2026-04-08
+73319,Aya Amintas - Lojas,Curitiba,PR,Centro,Em construção,Em construção,10/09/2025,31/03/2030,2.0,1438473.72,11434,125.81,373.98,0,0,0,0,0,0,1.0,2.0,2,Comercial,Blue,Lançamento,07/04/2026 20:56:09,2026-04-08
+76896,F1 Studios,Curitiba,PR,Hauer,Em construção,Em construção,01/03/2025,31/12/2026,50.0,209946.0,9543,22.0,88.39,1,1,0,1,0,1,4.0,14.0,16,Residencial,Arbo Empreendimentos,Lançamento,07/04/2026 18:50:27,2026-04-08
+76897,Mônaco Residence,Curitiba,PR,Água Verde,Em construção,Em construção,01/09/2025,31/07/2027,27.0,268970.0,10920,24.63,30.24,1,1,0,0,0,0,6.0,5.0,16,Residencial,Arbo Empreendimentos,Lançamento,07/04/2026 18:35:09,2026-04-08
+36358,Meo Neoville,Curitiba,PR,Cidade Industrial,Em construção,Em construção,01/10/2022,29/05/2026,336.0,592773.0,8874,66.8,70.08,2,2,1,1,1,1,6.0,8.0,8,Residencial,Rottas Construtora,Lançamento,07/04/2026 18:10:32,2026-04-08
+66222,Vega Neoville,Curitiba,PR,Neoville,Em construção,Em construção,28/01/2025,28/12/2027,192.0,394828.72,8537,46.25,93.52,2,2,0,0,1,1,6.0,8.0,64,Residencial,Rottas Construtora,Lançamento,07/04/2026 18:08:34,2026-04-08
+44734,Meo Hauer,Curitiba,PR,Hauer,Em construção,Em construção,01/05/2023,29/05/2026,80.0,490997.0,9262,53.01,64.08,2,3,1,1,1,1,4.0,8.0,7,Residencial,Rottas Construtora,Lançamento,07/04/2026 18:08:25,2026-04-08
+31186,Luna Luz do Cabral,Curitiba,PR,Cabral,Pronto novo,Pronto novo,01/07/2021,30/11/2023,42.0,1246500.0,13200,94.43,94.43,3,3,1,1,2,2,8.0,6.0,1,Residencial,Maken,Lançamento,07/04/2026 17:37:15,2026-04-08
+44711,Gaia,Curitiba,PR,Cabral,Em construção,Em construção,21/06/2023,31/05/2026,104.0,856000.0,12546,68.23,155.43,2,3,1,3,1,2,8.0,8.0,50,Residencial,Maken,Lançamento,07/04/2026 16:31:33,2026-04-08
+21343,Árten,Curitiba,PR,Alto da Rua XV,Pronto novo,Pronto novo,01/06/2021,30/11/2023,32.0,1867984.63,13700,136.35,136.86,3,3,2,2,0,0,6.0,6.0,2,Residencial,ALTMA,Lançamento,07/04/2026 15:59:25,2026-04-08
+68651,Tamoios,Curitiba,PR,Vila Izabel,Em construção,Em construção,15/04/2025,30/07/2027,28.0,1293714.14,13347,96.93,196.45,3,3,1,3,2,3,8.0,4.0,23,Residencial,Cosmos Incorporadora,Lançamento,07/04/2026 13:59:23,2026-04-08
+67310,Goa,Curitiba,PR,Água Verde,Em construção,Em construção,01/01/2025,30/07/2027,33.0,794000.0,12204,65.06,202.64,2,3,1,1,1,2,8.0,5.0,8,Residencial,Tricon,Lançamento,07/04/2026 11:08:17,2026-04-08
+74615,Tramontto,Curitiba,PR,Tingui,Em construção,Lançamento,05/11/2025,30/08/2028,37.0,494713.8,8820,56.09,126.92,2,2,0,1,1,2,8.0,5.0,27,Residencial,Calure,Lançamento,07/04/2026 10:48:21,2026-04-08
+76250,Plaenge Artis,Curitiba,PR,Mercês,Em construção,Lançamento,29/11/2025,30/04/2029,91.0,1675820.0,15573,107.61,270.55,3,4,1,4,2,3,8.0,6.0,25,Residencial,Plaenge PR,Lançamento,07/04/2026 10:35:59,2026-04-08
+15068,Experience,Curitiba,PR,Ecoville,Pronto novo,Pronto novo,01/06/2020,31/03/2024,23.0,6363000.0,19873,320.18,320.18,4,4,4,4,4,4,23.0,1.0,1,Residencial,Plaenge PR,Lançamento,07/04/2026 10:33:56,2026-04-08
+57712,Paseo Folloni,Curitiba,PR,Ahú,Em construção,Em construção,22/06/2024,28/09/2027,74.0,2093190.0,16234,128.94,232.47,3,3,1,3,2,3,8.0,5.0,15,Residencial,Plaenge PR,Lançamento,07/04/2026 10:33:43,2026-04-08
+51761,Horizon Ecoville,Curitiba,PR,Ecoville,Em construção,Em construção,01/12/2023,31/10/2027,86.0,1739070.0,14553,119.5,119.56,3,3,1,1,2,2,24.0,4.0,42,Residencial,Plaenge PR,Lançamento,07/04/2026 10:26:41,2026-04-08
+56354,Ágon Residence,Curitiba,PR,Água Verde,Em construção,Em construção,20/04/2024,30/04/2027,61.0,1997990.0,14701,129.59,135.91,3,3,1,3,2,2,8.0,2.0,4,Residencial,Plaenge PR,Lançamento,07/04/2026 10:23:25,2026-04-08
+55584,Nest,Curitiba,PR,Alto da Rua XV,Em construção,Em construção,23/03/2024,30/07/2027,92.0,1095721.1,12905,84.03,216.93,2,3,1,3,1,3,8.0,6.0,23,Residencial,Vanguard PR,Lançamento,07/04/2026 10:21:29,2026-04-08
+53174,Lior,Curitiba,PR,Ahú,Em construção,Em construção,01/02/2024,30/11/2026,35.0,1114457.0,15468,72.05,161.4,2,3,1,3,1,2,8.0,6.0,8,Residencial,Piemonte PR,Lançamento,07/04/2026 10:21:23,2026-04-08
+52020,Qoya Residence Curio Collection by Hilton,Curitiba,PR,Batel,Em construção,Em construção,01/10/2023,30/11/2027,127.0,755653.0,20743,36.43,166.25,1,3,0,3,0,2,26.0,15.0,42,Residencial,Piemonte PR,Lançamento,07/04/2026 10:21:20,2026-04-08
+25182,New.in,Curitiba,PR,Cidade Industrial,Pronto novo,Pronto novo,01/11/2021,30/11/2025,192.0,1022145.29,13098,78.04,163.0,2,3,1,1,1,2,26.0,8.0,8,Residencial,Vanguard PR,Lançamento,07/04/2026 10:21:08,2026-04-08
+28283,Croma,Curitiba,PR,Bigorrilho,Pronto novo,Pronto novo,01/01/2022,31/03/2026,227.0,791456.0,11595,68.26,140.54,2,3,1,3,1,2,15.0,9.0,21,Residencial,Piemonte PR,Lançamento,07/04/2026 10:19:09,2026-04-08
+59492,Piemonte Poty,Curitiba,PR,Água Verde,Em construção,Em construção,01/08/2024,28/11/2027,56.0,3297122.0,20335,162.14,202.23,3,3,3,3,3,3,23.0,2.0,16,Residencial,Piemonte PR,Lançamento,07/04/2026 10:18:58,2026-04-08
+35909,Insight,Curitiba,PR,Vila Izabel,Em construção,Em construção,17/09/2022,30/06/2026,106.0,1298646.92,15837,82.0,94.93,2,3,1,1,1,1,21.0,6.0,15,Residencial,Vanguard PR,Lançamento,07/04/2026 10:16:40,2026-04-08
+56173,Nizza,Curitiba,PR,Batel,Em construção,Em construção,28/03/2024,28/02/2027,21.0,3016360.0,22169,136.0,214.48,3,3,3,3,2,3,6.0,2.0,11,Residencial,Piemonte PR,Lançamento,07/04/2026 10:16:28,2026-04-08
+73776,Piemonte Alberi,Curitiba,PR,Cabral,Em construção,Em construção,07/08/2025,30/12/2029,75.0,2426816.0,16006,151.62,295.69,3,4,3,4,2,4,6.0,6.0,38,Residencial,Piemonte PR,Lançamento,07/04/2026 10:14:34,2026-04-08
+25523,Jardim dos Manacás,Curitiba,PR,Tingui,Pronto novo,Pronto novo,18/11/2021,30/11/2024,220.0,616066.0,10280,59.93,73.35,2,3,1,1,1,2,7.0,8.0,4,Residencial,Piemonte PR,Lançamento,07/04/2026 10:14:26,2026-04-08
+64298,Réve,Curitiba,PR,Centro Cívico,Em construção,Em construção,01/10/2024,28/04/2028,147.0,927967.54,12785,71.75,282.1,2,3,1,3,1,3,10.0,16.0,48,Residencial,Riskalla,Lançamento,07/04/2026 10:14:16,2026-04-08
+72974,Aion,Curitiba,PR,Batel,Em construção,Em construção,18/09/2025,31/12/2028,18.0,2473360.0,17200,143.8,286.3,3,4,3,4,3,6,10.0,2.0,9,Residencial,Riskalla,Lançamento,07/04/2026 10:09:04,2026-04-08
+47222,Auth,Curitiba,PR,Centro Cívico,Em construção,Em construção,01/09/2023,30/07/2026,60.0,861947.94,14818,58.17,237.58,1,3,1,3,1,2,7.0,8.0,13,Residencial,Vanguard PR,Lançamento,07/04/2026 10:06:34,2026-04-08
+71480,Hytte,Curitiba,PR,Campina do Siqueira,Em construção,Em construção,01/05/2025,30/09/2028,149.0,1137010.41,13602,82.52,236.33,2,3,1,3,1,3,8.0,8.0,61,Residencial,Vanguard PR,Lançamento,07/04/2026 10:05:50,2026-04-08
+37482,Garden Sevilha - Lojas,Curitiba,PR,Boa Vista,Pronto novo,Pronto novo,01/02/2011,30/01/2014,3.0,1800000.0,5014,359.0,359.0,0,0,0,0,15,15,1.0,3.0,1,Comercial,Vanguard PR,Lançamento,07/04/2026 10:03:44,2026-04-08
+67182,Ara,Curitiba,PR,Água Verde,Em construção,Em construção,10/04/2025,01/07/2028,40.0,866119.29,11314,76.27,255.19,2,3,1,3,1,4,7.0,6.0,26,Residencial,Veres,Lançamento,07/04/2026 09:43:00,2026-04-08
+71186,Naví Garcia,Curitiba,PR,Boqueirão,Em construção,Em construção,01/08/2025,30/06/2027,20.0,278227.89,9486,29.33,115.71,1,3,0,1,0,2,4.0,6.0,16,Residencial,ACKL Empreendimentos,Lançamento,07/04/2026 08:03:43,2026-04-08
+67312,Pilar TownHouse,Curitiba,PR,Pilarzinho,Pronto novo,Pronto novo,01/06/2024,30/07/2024,7.0,999000.0,7164,139.45,139.45,3,3,1,1,2,2,,,1,Residencial,Nova SS Construções,Lançamento,07/04/2026 07:28:35,2026-04-08
+54011,Barcelona,Curitiba,PR,Hauer,Pronto novo,Pronto novo,01/02/2024,30/11/2025,15.0,559000.0,8227,67.95,67.95,3,3,1,1,1,1,4.0,5.0,1,Residencial,Reus Construtora,Lançamento,07/04/2026 01:38:19,2026-04-08
+71934,Next 360,Curitiba,PR,Portão,Em construção,Lançamento,10/03/2026,30/03/2028,36.0,330000.0,9560,34.52,171.73,1,3,0,1,0,1,4.0,10.0,33,Residencial,Enkan,Lançamento,07/04/2026 00:12:48,2026-04-08
+79623,Sonatta Home Club,Curitiba,PR,Vila Izabel,Em construção,Lançamento,19/03/2026,30/04/2030,85.0,771398.38,12729,60.57,182.77,2,3,1,3,1,2,8.0,6.0,46,Residencial,ATR Incorporadora PR,Lançamento,06/04/2026 23:24:32,2026-04-08
+25318,Human Batel,Curitiba,PR,Batel,Pronto novo,Pronto novo,01/07/2021,30/05/2024,118.0,429300.0,19199,22.36,37.71,0,0,0,0,0,0,8.0,17.0,5,Comercial,GT Building,Lançamento,06/04/2026 23:04:09,2026-04-08
+74408,Nox Residence,Curitiba,PR,Juvevê,Pronto novo,Pronto novo,01/03/2019,30/08/2021,22.0,1346482.62,13685,98.39,98.39,3,3,2,2,1,1,4.0,6.0,1,Residencial,Zelta,Lançamento,06/04/2026 22:25:21,2026-04-08
+74366,Ícone 1269,Curitiba,PR,Hugo Lange,Pronto novo,Pronto novo,01/08/2021,30/09/2023,39.0,500746.83,15707,31.38,32.08,1,1,0,0,0,0,4.0,11.0,8,Residencial,Zelta,Lançamento,06/04/2026 22:23:08,2026-04-08
+74409,Curí 1615,Curitiba,PR,Juvevê,Em construção,Em construção,01/06/2024,31/08/2026,41.0,472516.38,14241,33.18,148.0,1,2,0,2,0,1,4.0,11.0,25,Residencial,Zelta,Lançamento,06/04/2026 22:04:25,2026-04-08
+30714,OÁS Barigui,Curitiba,PR,Bigorrilho,Em construção,Em construção,01/01/2023,30/06/2027,60.0,3169690.0,19242,164.73,286.11,3,4,3,4,2,4,50.0,2.0,14,Residencial,GT Building,Lançamento,06/04/2026 21:50:05,2026-04-08
+77022,Seven,Curitiba,PR,Alto da Glória,Em construção,Em construção,01/10/2025,31/12/2027,59.0,210949.05,10521,20.05,31.8,1,1,0,0,0,0,7.0,10.0,34,Residencial,Dornelles,Lançamento,06/04/2026 21:30:41,2026-04-08
+29743,Oasis,Curitiba,PR,Santa Cândida,Pronto novo,Pronto novo,01/11/2021,31/07/2025,49.0,899900.0,8035,112.0,112.0,3,3,1,1,2,2,,,9,Residencial,Inndesa Incorporadora,Lançamento,06/04/2026 21:13:28,2026-04-08
+75918,Arte Vert,Curitiba,PR,Água Verde,Em construção,Lançamento,27/02/2026,30/05/2028,36.0,925005.0,12019,76.96,204.2,2,4,1,4,2,3,8.0,5.0,13,Residencial,Artesa Construtora,Lançamento,06/04/2026 21:02:30,2026-04-08
+29354,Palm 235,Curitiba,PR,Alto da Glória,Pronto novo,Pronto novo,01/03/2022,01/03/2025,30.0,4535010.0,16496,274.92,281.64,4,4,2,2,4,4,8.0,4.0,2,Residencial,Plaenge PR,Lançamento,06/04/2026 18:41:48,2026-04-08
+26297,Chateau Latour,Curitiba,PR,Seminário,Pronto novo,Pronto novo,01/10/2019,31/12/2023,107.0,1524766.82,15824,95.44,263.66,2,3,1,3,2,5,8.0,5.0,27,Residencial,Homs Incorporadora,Lançamento,06/04/2026 18:39:21,2026-04-08
+68212,Átrio,Curitiba,PR,Ecoville,Em construção,Em construção,23/11/2024,30/11/2027,49.0,2734410.0,15965,170.82,239.59,3,3,3,3,3,3,26.0,2.0,22,Residencial,Plaenge PR,Lançamento,06/04/2026 18:32:33,2026-04-08
+68270,Pulse,Curitiba,PR,Água Verde,Em construção,Em construção,21/09/2024,30/06/2028,116.0,1179791.11,12338,95.62,236.72,1,3,1,1,1,2,23.0,6.0,19,Residencial,Vanguard PR,Lançamento,06/04/2026 17:48:55,2026-04-08
+78016,Reserva Origens Ristreto,Curitiba,PR,Campo de Santana,Em construção,Em construção,01/09/2025,30/06/2027,43.0,241794.0,1314,165.65,184.02,0,0,0,0,0,0,,,2,Residencial,Piemonte PR,Lançamento,06/04/2026 17:48:51,2026-04-08
+73987,Vero,Curitiba,PR,Ahú,Em construção,Em construção,01/08/2025,30/04/2028,19.0,2500000.0,17986,139.0,417.0,2,4,2,4,2,4,4.0,5.0,12,Residencial,Giacomazzi,Lançamento,06/04/2026 17:46:17,2026-04-08
+80979,Manhattan Wall Street,Curitiba,PR,Alto da Glória,Em construção,Lançamento,01/03/2026,31/12/2029,136.0,235000.0,15083,15.58,30.55,1,1,0,0,0,0,6.0,26.0,136,Residencial,Manhattan Empreendimentos Imobiliários,Lançamento,06/04/2026 16:01:45,2026-04-08
+57702,Alameda Ecoville - Fase 1,Curitiba,PR,Campo Comprido,Em construção,Em construção,01/06/2025,01/07/2027,13.0,2280000.0,8913,255.82,255.82,3,3,3,3,2,2,,,7,Residencial,Tempos Incorporadora,Lançamento,06/04/2026 14:54:18,2026-04-08
+65600,El Arte Moradas Concepto,Curitiba,PR,Campo Comprido,Em construção,Em construção,01/09/2024,28/12/2027,62.0,867177.37,12674,68.42,242.78,2,3,1,3,1,2,6.0,12.0,21,Residencial,Inndesa Incorporadora,Lançamento,06/04/2026 12:52:29,2026-04-08
+76014,Apus,Curitiba,PR,Água Verde,Em construção,Lançamento,15/12/2025,15/03/2028,30.0,712168.6,13228,45.86,146.79,1,3,0,2,1,3,8.0,5.0,14,Residencial,Maya Incorporadora,Lançamento,06/04/2026 10:43:11,2026-04-08
+80921,Retro Plano da Dornelles,Curitiba,PR,Alto da XV,Em construção,Lançamento,01/03/2026,30/04/2027,25.0,173561.85,9397,18.47,39.21,1,1,0,0,0,0,3.0,10.0,10,Residencial,Dornelles,Lançamento,06/04/2026 09:54:35,2026-04-08
+48312,EZA Living,Curitiba,PR,Ahú,Pronto novo,Pronto novo,20/09/2023,27/02/2026,30.0,1635082.0,15425,106.0,305.0,2,4,2,4,2,4,9.0,4.0,5,Residencial,Dreamis Incorporadora,Lançamento,04/04/2026 20:56:48,2026-04-08
+62305,Lothus,Curitiba,PR,Seminário,Pronto novo,Pronto novo,01/08/2022,28/12/2024,18.0,988933.0,12100,81.73,134.05,3,3,1,1,1,2,6.0,3.0,9,Residencial,Realiza Construções,Lançamento,03/04/2026 15:05:41,2026-04-08
+49232,Blentt - Residencial,Curitiba,PR,Portão,Em construção,Em construção,01/07/2023,01/07/2027,84.0,743182.88,12719,58.0,119.58,2,3,1,3,0,1,12.0,14.0,7,Residencial,ATR Incorporadora PR,Lançamento,03/04/2026 09:57:12,2026-04-08
+43504,Mozine Wellness Design,Curitiba,PR,Juvevê,Em construção,Em construção,19/06/2023,11/05/2027,26.0,2112217.4,15418,137.0,137.0,4,4,4,4,2,2,8.0,5.0,1,Residencial,ATR Incorporadora PR,Lançamento,03/04/2026 09:54:58,2026-04-08
+57124,Core Faivre,Curitiba,PR,Centro,Em construção,Em construção,01/05/2024,28/05/2027,238.0,299396.86,15883,18.85,37.51,1,2,0,0,0,0,20.0,14.0,33,Residencial,Gadens,Lançamento,02/04/2026 23:21:48,2026-04-08
+68973,Atmos Ecoville,Curitiba,PR,Ecoville,Em construção,Em construção,30/05/2025,28/02/2028,37.0,2532264.26,12502,201.53,211.92,3,3,3,3,2,2,,,18,Residencial,CGL,Lançamento,02/04/2026 22:55:03,2026-04-08
+80019,Rocca,Curitiba,PR,Boa Vista,Em construção,Lançamento,25/03/2026,30/12/2028,107.0,265900.0,8938,29.75,133.68,1,3,0,1,0,2,13.0,10.0,85,Residencial,Auten,Lançamento,02/04/2026 22:50:56,2026-04-08
+38822,Zenith Barigui,Curitiba,PR,Santo Inácio,Pronto novo,Pronto novo,01/11/2022,30/09/2025,21.0,3080000.0,12020,243.25,256.25,3,4,2,3,2,2,,,6,Residencial,CGL,Lançamento,02/04/2026 22:25:39,2026-04-08
+49233,Blentt - Lojas,Curitiba,PR,Portão,Em construção,Em construção,01/07/2023,01/07/2027,3.0,1068767.23,16057,66.56,159.25,0,0,0,0,2,2,1.0,3.0,3,Comercial,ATR Incorporadora PR,Lançamento,02/04/2026 21:57:11,2026-04-08
+75845,Terracota,Curitiba,PR,Ecoville,Em construção,Lançamento,15/11/2025,31/12/2028,43.0,1241344.85,12110,102.51,243.97,3,3,1,3,2,2,6.0,8.0,22,Residencial,CGL,Lançamento,02/04/2026 21:12:32,2026-04-08
+49833,House Ecoville,Curitiba,PR,Campo Comprido,Pronto novo,Pronto novo,01/10/2023,30/03/2026,35.0,1563520.0,7885,197.95,198.29,3,3,1,1,2,2,,,8,Residencial,CGL,Lançamento,02/04/2026 20:27:26,2026-04-08
+54810,Ambar,Curitiba,PR,Santa Felicidade,Em construção,Em construção,01/05/2024,30/04/2027,38.0,2804125.38,11136,251.8,264.49,3,3,3,3,3,3,,,12,Residencial,CGL,Lançamento,02/04/2026 20:24:43,2026-04-08
+51058,Oká Bacacheri,Curitiba,PR,Bacacheri,Em construção,Em construção,01/10/2023,30/04/2026,23.0,1550000.0,7334,211.35,247.3,3,3,3,3,2,2,,,11,Residencial,CGL,Lançamento,02/04/2026 20:16:40,2026-04-08
+27802,Easy Vila Izabel,Curitiba,PR,Vila Izabel,Pronto novo,Pronto novo,01/09/2021,27/11/2025,48.0,466131.54,11627,40.09,40.09,2,2,0,0,1,1,8.0,6.0,1,Residencial,Basesul,Lançamento,02/04/2026 19:34:24,2026-04-08
+16647,One House,Curitiba,PR,Novo Mundo,Pronto novo,Pronto novo,01/04/2020,31/10/2023,194.0,250000.0,11013,22.7,31.35,1,1,0,1,0,0,8.0,26.0,13,Residencial,Basesul,Lançamento,02/04/2026 12:45:54,2026-04-08
+77000,Tauá - Breve Lançamento,Curitiba,PR,Juvevê,Em construção,Lançamento,04/12/2025,01/12/2029,58.0,0.1,0,147.7,370.23,3,4,3,4,2,4,9.0,8.0,58,Residencial,Dreamis Incorporadora,Lançamento,02/04/2026 11:24:12,2026-04-08
+37213,Piazza 685,Curitiba,PR,Água Verde,Pronto novo,Pronto novo,01/11/2022,30/10/2025,23.0,2796150.0,16448,145.0,170.0,3,3,3,3,2,3,8.0,3.0,2,Residencial,ABCR,Lançamento,02/04/2026 08:47:55,2026-04-08
+36466,Gran Solare,Curitiba,PR,Cristo Rei,Pronto novo,Pronto novo,01/09/2022,31/08/2025,42.0,1352324.02,13472,100.38,159.71,2,3,2,3,2,2,17.0,3.0,12,Residencial,Equilíbrio,Lançamento,02/04/2026 01:25:15,2026-04-08
+45915,Sangiovese,Curitiba,PR,Alto da Glória,Em construção,Em construção,01/08/2023,30/09/2026,61.0,1775684.45,15994,110.33,261.17,2,3,1,3,2,3,8.0,8.0,19,Residencial,Equilíbrio,Lançamento,02/04/2026 01:25:14,2026-04-08
+30588,Trebbiano Residencial - Fase 2,Curitiba,PR,Campo Comprido,Pronto novo,Pronto novo,01/07/2022,31/08/2025,116.0,1163502.72,15603,74.57,194.31,2,3,1,3,1,2,11.0,6.0,15,Residencial,Equilíbrio,Lançamento,02/04/2026 01:25:14,2026-04-08
+56706,Blanc de Rouge,Curitiba,PR,Juvevê,Em construção,Em construção,28/04/2024,28/03/2027,40.0,2600229.9,16652,154.19,215.18,3,3,3,3,2,3,24.0,2.0,22,Residencial,Equilíbrio,Lançamento,02/04/2026 01:25:12,2026-04-08
+80225,Moov - Breve Lançamento,Curitiba,PR,Bigorrilho,Em construção,Lançamento,01/06/2026,30/06/2029,0.0,0.1,0,16.45,44.81,1,1,0,0,0,0,8.0,12.0,1,Residencial,Basesul,Lançamento,02/04/2026 01:25:11,2026-04-08
+71423,Aya Carlos de Carvalho - Lojas,Curitiba,PR,Centro,Em construção,Em construção,01/07/2025,30/11/2029,8.0,5029994.85,14423,348.76,579.14,0,0,0,0,0,0,1.0,8.0,4,Comercial,Blue,Lançamento,02/04/2026 01:25:06,2026-04-08
+53966,Hit Home,Curitiba,PR,Alto da Glória,Em construção,Em construção,01/02/2024,30/12/2026,120.0,379795.9,14209,26.73,53.51,1,2,0,0,0,0,10.0,14.0,4,Residencial,Blue,Lançamento,02/04/2026 01:25:06,2026-04-08
+54393,Aretha,Curitiba,PR,Rebouças,Pronto novo,Pronto novo,01/10/2023,29/01/2026,98.0,335300.0,13134,25.53,36.57,1,1,0,0,1,1,7.0,14.0,35,Residencial,Deborah Bassoli Empreendimentos,Lançamento,02/04/2026 00:54:50,2026-04-08
+76951,Grand Lodge Batel,Curitiba,PR,Batel,Em construção,Lançamento,01/12/2025,31/10/2028,39.0,2375826.52,19711,120.53,308.95,2,3,2,3,2,3,8.0,3.0,37,Residencial,Partilha,Lançamento,02/04/2026 00:24:45,2026-04-08
+56943,Guaraúna,Curitiba,PR,Juvevê,Em construção,Em construção,01/06/2024,28/09/2026,8.0,3950000.0,13958,210.0,283.0,2,3,2,3,3,4,8.0,1.0,2,Residencial,Giacomazzi,Lançamento,01/04/2026 23:51:18,2026-04-08
+49912,Nillo,Curitiba,PR,Bom Retiro,Em construção,Em construção,01/10/2023,30/06/2026,26.0,686000.0,12813,52.16,69.25,2,2,0,2,1,1,6.0,5.0,6,Residencial,Tricon,Lançamento,01/04/2026 23:31:38,2026-04-08
+78839,Loom Stay,Curitiba,PR,Centro,Em construção,Lançamento,26/01/2026,30/08/2028,128.0,399000.0,13721,29.06,90.04,1,2,0,0,0,0,10.0,13.0,43,Residencial,Tricon,Lançamento,01/04/2026 23:28:35,2026-04-08
+72362,Natune,Curitiba,PR,Cajuru,Em construção,Em construção,01/05/2025,30/11/2027,221.0,305583.31,12733,24.0,59.6,1,2,0,1,0,0,8.0,16.0,33,Residencial,Tuo Empreendimentos,Lançamento,01/04/2026 23:26:32,2026-04-08
+51913,Avvio,Curitiba,PR,Vila Izabel,Em construção,Em construção,15/12/2023,31/10/2026,22.0,799000.0,13447,59.42,65.53,2,2,1,1,1,2,7.0,4.0,5,Residencial,Tricon,Lançamento,01/04/2026 23:03:00,2026-04-08
+73019,Core Silva Jardim,Curitiba,PR,Rebouças,Em construção,Em construção,03/09/2025,30/09/2028,241.0,384961.37,15008,22.8,25.65,1,1,0,0,0,0,21.0,16.0,4,Residencial,Gadens,Lançamento,01/04/2026 21:48:55,2026-04-08
+76222,Eternity,Curitiba,PR,Água Verde,Em construção,Lançamento,29/11/2025,30/11/2028,43.0,892944.0,12402,70.0,80.0,2,3,1,1,1,2,8.0,6.0,23,Residencial,ABCR,Lançamento,01/04/2026 20:42:56,2026-04-08
+54968,Terrasse Joie,Curitiba,PR,Boa Vista,Em construção,Em construção,01/01/2024,30/12/2027,82.0,854000.0,12134,68.92,161.21,2,3,1,1,1,2,7.0,11.0,37,Residencial,Terrasse,Lançamento,01/04/2026 20:20:23,2026-04-08
+53173,Fýsi,Curitiba,PR,Hauer,Pronto novo,Pronto novo,27/01/2024,28/02/2026,101.0,515704.61,3956,130.37,184.53,0,0,0,0,0,0,,,17,Residencial,Equilíbrio,Lançamento,01/04/2026 20:15:43,2026-04-08
+36011,Terrasse Lilas,Curitiba,PR,Ahú,Pronto novo,Pronto novo,01/10/2022,30/07/2025,23.0,1636000.0,13687,115.87,125.22,3,3,1,1,2,3,7.0,3.0,10,Residencial,Terrasse,Lançamento,01/04/2026 20:15:40,2026-04-08
+65642,Equilíbrio Alta,Curitiba,PR,Mercês,Em construção,Em construção,28/06/2025,28/12/2028,44.0,1304853.21,15054,86.68,334.42,2,3,2,3,1,3,8.0,6.0,19,Residencial,Equilíbrio,Lançamento,01/04/2026 20:13:27,2026-04-08
+21173,Terrasse Mouvement,Curitiba,PR,Cabral,Pronto novo,Pronto novo,01/06/2021,30/12/2024,34.0,1277000.0,12819,99.62,100.35,3,3,1,1,2,2,19.0,2.0,10,Residencial,Terrasse,Lançamento,01/04/2026 20:11:32,2026-04-08
+80385,Terrasse La Vie,Curitiba,PR,Água Verde,Em construção,Lançamento,01/03/2026,31/03/2030,89.0,909000.0,12616,71.72,191.09,2,3,1,1,1,2,7.0,12.0,88,Residencial,Terrasse,Lançamento,01/04/2026 20:11:29,2026-04-08
+69476,Terrasse L'Avenir,Curitiba,PR,Ecoville,Em construção,Em construção,30/07/2025,31/07/2028,96.0,879000.0,12361,70.7,216.66,2,3,1,3,1,2,7.0,15.0,56,Residencial,Terrasse,Lançamento,01/04/2026 20:11:17,2026-04-08
+36024,Terrasse Élégant,Curitiba,PR,Ahú,Pronto novo,Pronto novo,01/02/2022,16/12/2024,38.0,1190000.0,13112,90.76,164.99,2,2,1,1,1,2,7.0,5.0,5,Residencial,Terrasse,Lançamento,01/04/2026 20:08:34,2026-04-08
+53204,Terrasse Infini - Residencial,Curitiba,PR,Água Verde,Em construção,Em construção,01/12/2023,31/05/2028,105.0,1020000.0,13022,78.33,113.67,2,3,1,2,1,2,27.0,5.0,39,Residencial,Terrasse,Lançamento,01/04/2026 20:08:31,2026-04-08
+24068,Terrasse Hemisphere - Comercial,Curitiba,PR,Mossunguê,Pronto novo,Pronto novo,01/08/2021,30/12/2022,45.0,607877.59,17353,35.03,46.43,0,0,0,0,1,2,7.0,7.0,10,Comercial,Terrasse,Lançamento,01/04/2026 20:08:26,2026-04-08
+20784,Terrasse Normandie,Curitiba,PR,Juvevê,Pronto novo,Pronto novo,01/01/2020,30/03/2022,23.0,2420000.0,13959,173.36,173.36,3,3,1,1,3,3,8.0,3.0,1,Residencial,Terrasse,Lançamento,01/04/2026 20:08:23,2026-04-08
+26213,Terrasse Vincennes,Curitiba,PR,Juvevê,Pronto novo,Pronto novo,01/12/2021,30/12/2024,23.0,2220000.0,15324,127.58,145.57,3,3,3,3,3,3,7.0,3.0,5,Residencial,Terrasse,Lançamento,01/04/2026 20:05:18,2026-04-08
+21170,Terrasse Jeune,Curitiba,PR,Juvevê,Pronto novo,Pronto novo,01/12/2020,30/12/2023,20.0,1460000.0,13801,105.2,105.79,3,3,1,1,2,2,7.0,3.0,2,Residencial,Terrasse,Lançamento,01/04/2026 20:05:15,2026-04-08
+20770,Terrasse Musique,Curitiba,PR,Cristo Rei,Pronto novo,Pronto novo,01/02/2014,30/04/2016,26.0,1328000.0,12234,108.55,108.55,3,3,1,1,2,2,7.0,4.0,1,Residencial,Terrasse,Lançamento,01/04/2026 20:03:30,2026-04-08
+57486,Terrasse Magique,Curitiba,PR,Portão,Em construção,Em construção,01/07/2024,31/07/2028,102.0,788000.0,11721,67.23,124.77,2,3,1,1,1,2,18.0,6.0,52,Residencial,Terrasse,Lançamento,01/04/2026 20:03:26,2026-04-08
+37863,Terrasse Nature,Curitiba,PR,Santo Inácio,Pronto novo,Pronto novo,02/01/2023,30/01/2026,24.0,2410000.0,14707,143.07,386.78,3,3,3,3,2,4,3.0,4.0,14,Residencial,Terrasse,Lançamento,01/04/2026 20:03:18,2026-04-08
+53206,Terrasse Infini - Comercial,Curitiba,PR,Água Verde,Em construção,Em construção,01/12/2023,30/12/2026,16.0,556000.0,10430,46.68,72.28,0,0,0,0,0,0,3.0,16.0,6,Comercial,Terrasse,Lançamento,01/04/2026 20:00:31,2026-04-08
+20790,Terrasse Créatif Commerciale,Curitiba,PR,Vila Izabel,Pronto novo,Pronto novo,01/08/2019,30/06/2022,108.0,659392.64,16715,39.45,46.2,0,0,0,0,0,0,13.0,11.0,4,Comercial,Terrasse,Lançamento,01/04/2026 19:56:15,2026-04-08
+36012,Terrasse Cadeaux,Curitiba,PR,Ahú,Pronto novo,Pronto novo,01/08/2022,31/07/2025,45.0,1176000.0,11922,96.81,130.65,3,3,1,3,2,2,7.0,6.0,10,Residencial,Terrasse,Lançamento,01/04/2026 19:53:57,2026-04-08
+41560,Terrasse Accueillant,Curitiba,PR,Juvevê,Pronto novo,Pronto novo,01/12/2022,31/03/2026,22.0,2300000.0,15300,145.92,171.66,3,3,3,3,3,3,7.0,3.0,6,Residencial,Terrasse,Lançamento,01/04/2026 19:49:10,2026-04-08
+20792,Terrasse Botanique,Curitiba,PR,Cristo Rei,Pronto novo,Pronto novo,01/12/2019,30/07/2022,44.0,1020000.0,13207,77.08,132.33,3,3,1,1,1,2,11.0,4.0,4,Residencial,Terrasse,Lançamento,01/04/2026 19:44:49,2026-04-08
+64405,Oslo,Curitiba,PR,Santa Quitéria,Em construção,Em construção,12/12/2024,30/03/2027,30.0,757916.19,11795,64.26,90.96,2,3,1,2,1,2,6.0,5.0,16,Residencial,Construtora Pessoa,Lançamento,01/04/2026 16:03:29,2026-04-08
+43505,Soul Urban Habitat,Curitiba,PR,Boa Vista,Em construção,Lançamento,01/01/2026,31/03/2028,21.0,909228.0,10200,89.14,172.86,3,3,1,3,1,2,7.0,3.0,12,Residencial,Engsa,Lançamento,01/04/2026 13:57:25,2026-04-08
+57969,OAK Curitiba,Curitiba,PR,Boa Vista,Em construção,Em construção,01/06/2024,28/06/2027,28.0,915300.0,10800,84.75,154.16,3,3,1,3,2,2,7.0,4.0,7,Residencial,Engsa,Lançamento,01/04/2026 13:55:53,2026-04-08
+23534,Álamo,Curitiba,PR,Bigorrilho,Pronto novo,Pronto novo,11/06/2021,30/08/2023,40.0,2049000.0,15457,132.56,357.99,3,4,3,4,2,4,8.0,3.0,8,Residencial,Monarca,Lançamento,01/04/2026 11:42:44,2026-04-08
+61433,Saint Maartan,Curitiba,PR,Portão,Em construção,Em construção,30/11/2024,15/09/2026,11.0,841248.27,10809,77.83,156.46,2,3,1,1,1,1,5.0,2.0,6,Residencial,JK Confiance,Lançamento,01/04/2026 11:41:42,2026-04-08
+60616,Uma Batel,Curitiba,PR,Batel,Em construção,Em construção,12/09/2024,30/12/2026,27.0,3533841.27,21489,164.45,455.87,3,4,3,4,3,5,10.0,3.0,16,Residencial,Monarca,Lançamento,01/04/2026 05:29:56,2026-04-08
+29103,Heart Urban Habitat,Curitiba,PR,Santa Felicidade,Pronto novo,Pronto novo,30/07/2022,30/05/2025,26.0,799900.0,9290,86.1,86.1,3,3,1,1,2,2,3.0,5.0,1,Residencial,Hype,Lançamento,01/04/2026 04:32:55,2026-04-08
+48338,Serra Dourada,Curitiba,PR,Bairro Alto,Em construção,Em construção,21/09/2023,20/12/2026,98.0,407767.14,12111,33.67,66.08,1,3,0,1,0,1,13.0,12.0,25,Residencial,Treèle,Lançamento,01/04/2026 03:13:31,2026-04-08
+71718,Pine Blue,Curitiba,PR,Capão Raso,Em construção,Em construção,18/08/2025,01/07/2028,126.0,526315.79,8687,58.81,61.67,2,2,1,1,1,1,25.0,6.0,113,Residencial,MGA Construtora,Lançamento,01/04/2026 01:24:52,2026-04-08
+37099,One Life,Curitiba,PR,Portão,Pronto novo,Pronto novo,01/11/2022,31/03/2026,504.0,352417.57,21052,16.74,30.17,1,1,0,0,0,0,20.0,36.0,15,Residencial,Basesul,Lançamento,01/04/2026 01:24:51,2026-04-08
+72965,Smart Living Portão - Breve Lançamento,Curitiba,PR,Portão,Em construção,Lançamento,04/04/2026,31/03/2029,50.0,0.1,0,17.72,33.39,1,1,0,0,0,0,8.0,7.0,50,Residencial,Marvi Incorporadora,Lançamento,31/03/2026 15:04:01,2026-04-08
+76894,Gran Pallazo III,Curitiba,PR,Alto da XV,Em construção,Em construção,01/06/2025,20/12/2026,4.0,1390000.0,6971,199.41,219.18,3,3,3,3,1,2,,,3,Residencial,Arbo Empreendimentos,Lançamento,30/03/2026 21:06:10,2026-04-08
+76892,Gran Pallazo IV,Curitiba,PR,Guabirotuba,Pronto novo,Pronto novo,01/07/2025,30/03/2026,4.0,989000.0,5941,166.47,187.72,3,3,1,1,1,2,,,2,Residencial,Arbo Empreendimentos,Lançamento,30/03/2026 20:58:06,2026-04-08
+58835,Dalí,Curitiba,PR,Bacacheri,Em construção,Em construção,01/07/2024,28/08/2026,66.0,1101261.61,11842,90.7,119.87,2,3,1,1,1,2,15.0,5.0,45,Residencial,MM Arruda,Lançamento,30/03/2026 14:05:15,2026-04-08
+73927,Kobe,Curitiba,PR,Vila Izabel,Em construção,Lançamento,01/10/2025,31/03/2028,39.0,440552.8,12711,34.66,154.4,1,2,0,1,0,1,6.0,6.0,17,Residencial,TM3 Incorporadora PR,Lançamento,27/03/2026 20:52:39,2026-04-08
+27439,Klimt,Curitiba,PR,Cabral,Pronto novo,Pronto novo,01/12/2021,30/04/2024,102.0,1291000.0,12782,101.0,155.0,2,3,1,3,2,3,20.0,6.0,52,Residencial,MM Arruda,Lançamento,27/03/2026 10:34:30,2026-04-08
+73074,Áurea,Curitiba,PR,Campina do Siqueira,Em construção,Em construção,01/12/2024,31/03/2027,4.0,2797296.0,11845,236.16,242.78,3,3,3,3,3,4,,,4,Residencial,GJR Empreendimentos,Lançamento,26/03/2026 14:06:06,2026-04-08
+71231,Bosque do Parque - Breve Lançamento,Curitiba,PR,Pilarzinho,Em construção,Lançamento,01/07/2026,28/08/2028,41.0,0.1,0,153.0,214.0,0,0,0,0,0,0,,,41,Residencial,B3P Incorporadora,Lançamento,25/03/2026 16:29:34,2026-04-08
+68408,Madrid,Curitiba,PR,Boqueirão,Em construção,Lançamento,01/10/2025,31/12/2028,16.0,509000.0,7956,63.65,117.21,3,3,1,1,1,1,4.0,6.0,13,Residencial,Reus Construtora,Lançamento,25/03/2026 16:28:33,2026-04-08
+50477,Bruder,Curitiba,PR,Jardim das Américas,Pronto novo,Pronto novo,01/08/2023,30/09/2024,3.0,1350000.0,6482,208.28,208.28,3,3,3,3,2,2,,,2,Residencial,Reus Construtora,Lançamento,25/03/2026 16:28:01,2026-04-08
+72208,Sublime,Curitiba,PR,Batel,Em construção,Em construção,15/08/2025,31/08/2028,16.0,5400000.0,22146,243.0,849.69,3,5,3,5,3,5,6.0,3.0,12,Residencial,Bouw,Lançamento,25/03/2026 09:32:09,2026-04-08
+80592,Schiller,Curitiba,PR,Cristo Rei,Em construção,Em construção,,,,234513.99,12402,18.91,35.22,1,1,0,0,0,0,4.0,5.0,11,Residencial,Casenge Construtora,Lançamento,23/03/2026 23:09:33,2026-04-08
+80197,Saint Augustine Studios,Curitiba,PR,Bacacheri,Em construção,Em construção,01/08/2025,31/08/2026,30.0,245000.0,11887,18.09,39.32,1,1,0,0,0,0,6.0,5.0,6,Residencial,Jota2F Construtora,Lançamento,23/03/2026 15:44:00,2026-04-08
+80196,Houston Residence,Curitiba,PR,Novo Mundo,Em construção,Em construção,01/09/2025,31/03/2028,52.0,205000.0,9075,22.59,39.48,1,1,0,0,0,0,8.0,7.0,32,Residencial,Jota2F Construtora,Lançamento,23/03/2026 15:43:10,2026-04-08
+954,Workspace Brigadeiro,Curitiba,PR,Batel,Pronto novo,Pronto novo,28/02/2012,28/02/2015,159.0,737150.69,12300,59.93,60.53,0,0,0,0,0,1,20.0,12.0,2,Comercial,Invespark,Lançamento,23/03/2026 15:03:43,2026-04-08
+71185,Casa Goinski,Curitiba,PR,Taboão,Pronto novo,Pronto novo,01/07/2024,30/09/2025,70.0,479682.0,3150,152.28,279.39,0,0,0,0,0,0,,,27,Residencial,B3P Incorporadora,Lançamento,20/03/2026 15:21:14,2026-04-08
+21701,Ilha de Capri - Residencial,Curitiba,PR,Vila Izabel,Pronto novo,Pronto novo,01/02/2020,28/02/2022,38.0,799000.0,10241,78.02,160.35,2,3,1,2,1,3,7.0,7.0,3,Residencial,HRC,Lançamento,20/03/2026 11:24:15,2026-04-08
+69526,Manhã,Curitiba,PR,Batel,Em construção,Em construção,07/05/2025,31/05/2028,30.0,5992078.0,20663,249.56,434.0,3,4,3,4,3,5,10.0,3.0,15,Residencial,Bidese,Lançamento,20/03/2026 10:52:47,2026-04-08
+74560,Orfeu,Curitiba,PR,Água Verde,Pronto novo,Pronto novo,24/09/2025,31/10/2025,27.0,1215634.82,14243,85.35,190.57,2,3,1,2,2,2,6.0,3.0,13,Residencial,Grupo Hestia,Lançamento,20/03/2026 10:50:00,2026-04-08
+74586,Chronos,Curitiba,PR,Seminário,Em construção,Em construção,01/12/2023,30/07/2026,76.0,1381435.9,18343,75.31,146.04,2,3,1,1,2,3,8.0,5.0,49,Residencial,Grupo Hestia,Lançamento,20/03/2026 10:44:41,2026-04-08
+44526,Manhattan Square,Curitiba,PR,Alto da XV,Em construção,Em construção,01/05/2023,30/09/2026,100.0,310000.0,14059,22.05,60.66,1,1,0,0,0,0,8.0,14.0,44,Residencial,Manhattan Empreendimentos Imobiliários,Lançamento,20/03/2026 04:34:24,2026-04-08
+64623,Palazzo Saldanha,Curitiba,PR,Centro,Pronto novo,Pronto novo,01/01/2024,28/02/2024,9.0,2155100.0,17282,124.7,194.91,2,3,2,3,2,2,9.0,2.0,2,Residencial,Pride,Lançamento,20/03/2026 01:23:49,2026-04-08
+31606,La Défense,Curitiba,PR,Campo Comprido,Em construção,Em construção,01/08/2022,30/05/2026,36.0,1650000.0,13294,124.12,249.54,3,3,3,3,2,4,10.0,4.0,2,Residencial,Manhattan Empreendimentos Imobiliários,Lançamento,20/03/2026 01:07:54,2026-04-08
+67313,Residencial NMS,Curitiba,PR,Atuba,Pronto novo,Pronto novo,01/06/2024,30/07/2024,4.0,690000.0,6663,103.56,104.69,3,3,1,1,2,2,,,3,Residencial,Nova SS Construções,Lançamento,20/03/2026 00:47:38,2026-04-08
+27171,Merizzo Residencial,Curitiba,PR,Capão Raso,Pronto novo,Pronto novo,01/12/2021,30/09/2024,38.0,455000.0,9479,48.0,81.8,2,2,0,0,1,2,8.0,5.0,3,Residencial,Thal Engenharia,Lançamento,19/03/2026 09:42:55,2026-04-08
+79650,Auma - Breve Lançamento,Curitiba,PR,Boa Vista,Em construção,Lançamento,15/03/2026,31/12/2027,35.0,0.1,0,44.32,205.96,1,3,0,1,0,2,12.0,6.0,35,Residencial,Thal Engenharia,Lançamento,19/03/2026 09:40:49,2026-04-08
+63515,La Dolce Vista - Breve Lançamento,Curitiba,PR,Tingui,Em construção,Em construção,01/02/2025,28/12/2027,28.0,0.1,0,45.06,97.66,2,2,0,0,1,1,5.0,,28,Residencial,Thal Engenharia,Lançamento,19/03/2026 09:40:49,2026-04-08
+23240,MUV Residence,Curitiba,PR,Centro,Pronto novo,Pronto novo,01/09/2021,20/10/2024,334.0,319718.57,15634,20.45,36.91,1,1,0,1,0,0,18.0,24.0,31,Residencial,Alô Incorp,Lançamento,19/03/2026 09:26:14,2026-04-08
+67311,Braz Haus,Curitiba,PR,São Braz,Pronto novo,Pronto novo,01/03/2025,31/01/2026,5.0,1390000.0,8555,162.48,199.15,3,3,3,3,2,2,,,4,Residencial,Nova SS Construções,Lançamento,19/03/2026 07:14:42,2026-04-08
+80457,Mugello,Curitiba,PR,Orleans,Pronto novo,Pronto novo,,,,920000.0,5266,174.72,174.72,3,3,1,1,2,2,,,1,Residencial,Potenza Construções,Lançamento,18/03/2026 14:24:02,2026-04-08
+80452,Interlakes,Curitiba,PR,Vila Izabel,Pronto novo,Pronto novo,,,,1590000.0,8123,195.74,195.74,3,3,3,3,3,3,,,1,Residencial,Potenza Construções,Lançamento,17/03/2026 22:23:32,2026-04-08
+58249,Moradas da Mata,Curitiba,PR,Campo Comprido,Pronto novo,Pronto novo,01/07/2024,28/10/2025,70.0,446860.98,14895,29.84,55.44,1,1,0,1,0,0,3.0,18.0,46,Residencial,Hope Incorporadora,Lançamento,17/03/2026 21:36:36,2026-04-08
+4135,Infinite,Curitiba,PR,Cabral,Pronto novo,Pronto novo,01/12/2016,31/12/2019,28.0,3990000.0,18399,216.86,216.86,3,3,3,3,3,3,8.0,4.0,1,Residencial,Cima,Lançamento,17/03/2026 13:06:54,2026-04-08
+53916,NIO,Curitiba,PR,Bigorrilho,Pronto novo,Pronto novo,01/12/2023,30/12/2025,36.0,3198000.0,18333,174.44,302.95,3,4,3,4,3,5,9.0,2.0,21,Residencial,Cima,Lançamento,17/03/2026 13:00:51,2026-04-08
+21318,Aventus Residences,Curitiba,PR,Bigorrilho,Pronto novo,Pronto novo,01/06/2021,30/12/2022,37.0,1628000.0,11488,141.71,154.73,3,3,3,3,2,3,10.0,4.0,6,Residencial,Cima,Lançamento,17/03/2026 03:35:05,2026-04-08
+68167,Cedrat,Curitiba,PR,Água Verde,Em construção,Em construção,01/03/2025,30/06/2029,92.0,2002000.0,14199,141.0,159.0,2,3,2,3,2,3,34.0,4.0,49,Residencial,Cima,Lançamento,17/03/2026 03:28:50,2026-04-08
+61035,New England,Curitiba,PR,Novo Mundo,Pronto novo,Pronto novo,01/05/2023,28/07/2025,57.0,269000.0,12009,21.95,23.0,1,1,0,0,0,0,7.0,9.0,8,Residencial,Alcance Engenharia,Lançamento,17/03/2026 02:22:15,2026-04-08
+67931,Sense 1910,Curitiba,PR,Lindóia,Em construção,Em construção,11/08/2025,30/08/2027,46.0,171090.0,9189,18.62,40.79,1,1,0,0,0,0,6.0,8.0,36,Residencial,Benvecon,Lançamento,17/03/2026 01:41:27,2026-04-08
+34850,TJM 526,Curitiba,PR,Capão Raso,Pronto novo,Pronto novo,01/08/2022,20/12/2025,36.0,503662.22,10732,46.86,56.62,2,2,0,1,1,2,7.0,6.0,5,Residencial,Treèle,Lançamento,16/03/2026 18:34:48,2026-04-08
+76889,Gran Pallazo VI,Curitiba,PR,Jardim Social,Em construção,Lançamento,01/11/2025,30/04/2027,7.0,1884450.0,8525,221.06,247.19,3,3,1,3,3,3,,,5,Residencial,Arbo Empreendimentos,Lançamento,16/03/2026 12:10:22,2026-04-08
+49266,Yes Ecoville,Curitiba,PR,Mossunguê,Em construção,Em construção,10/03/2024,28/02/2027,66.0,618963.02,11071,55.21,57.26,2,2,1,1,1,1,6.0,6.0,46,Residencial,TM3 Incorporadora PR,Lançamento,14/03/2026 02:31:27,2026-04-08
+23971,Corporate Emiliano,Curitiba,PR,Centro,Pronto novo,Pronto novo,01/12/2011,30/12/2012,6.0,12202923.0,12993,939.17,939.17,0,0,0,0,0,0,3.0,2.0,1,Comercial,Invespark,Lançamento,14/03/2026 02:08:14,2026-04-08
+55779,B41,Curitiba,PR,Prado Velho,Em construção,Em construção,09/05/2024,30/07/2027,183.0,530393.09,17384,30.51,35.0,1,4,0,0,0,0,7.0,42.0,9,Residencial,ALTMA,Lançamento,14/03/2026 00:36:13,2026-04-08
+37593,Maison Joie,Curitiba,PR,Portão,Pronto novo,Pronto novo,01/03/2022,30/03/2023,4.0,799209.0,6468,123.56,123.56,3,3,1,1,1,1,,,1,Residencial,HRC,Lançamento,13/03/2026 23:41:18,2026-04-08
+76890,Gran Pallazo V,Curitiba,PR,Uberaba,Em construção,Lançamento,01/11/2025,31/12/2026,7.0,797000.0,5046,121.86,157.95,3,3,1,1,1,1,,,6,Residencial,Arbo Empreendimentos,Lançamento,13/03/2026 22:39:56,2026-04-08
+67575,Sun Tower,Curitiba,PR,Novo Mundo,Pronto novo,Pronto novo,01/11/2023,30/12/2025,59.0,584249.0,9683,60.2,122.07,2,3,1,1,1,1,9.0,6.0,24,Residencial,HRC,Lançamento,13/03/2026 21:20:38,2026-04-08
+70912,Manaii,Curitiba,PR,Boa Vista,Em construção,Em construção,01/06/2025,31/05/2026,5.0,899000.0,7377,121.86,122.71,3,3,1,1,2,2,,,4,Residencial,Alcance Engenharia,Lançamento,12/03/2026 20:23:04,2026-04-08
+36360,Oxygen,Curitiba,PR,Batel,Pronto novo,Pronto novo,01/09/2022,30/01/2025,64.0,585000.0,19275,24.0,95.75,1,1,0,1,0,1,8.0,8.0,7,Residencial,O3 Empreendimentos,Lançamento,12/03/2026 11:48:43,2026-04-08
+65951,The Balance,Curitiba,PR,Bigorrilho,Em construção,Em construção,01/08/2024,28/08/2027,84.0,415000.0,18976,21.87,87.15,1,1,0,1,0,1,8.0,12.0,10,Residencial,O3 Empreendimentos,Lançamento,12/03/2026 11:48:43,2026-04-08
+24045,Varanda Barigui - Residencial,Curitiba,PR,Champagnat,Pronto novo,Pronto novo,01/10/2021,31/08/2025,44.0,2810520.24,17122,164.15,260.23,3,3,3,3,3,4,25.0,2.0,12,Residencial,Invescon,Lançamento,12/03/2026 04:24:48,2026-04-08
+64732,Wish Champagnat,Curitiba,PR,Bigorrilho,Em construção,Em construção,06/12/2024,28/07/2027,16.0,1685850.92,18459,91.33,231.93,2,3,2,3,2,3,6.0,3.0,5,Residencial,Vinci Empreendimentos,Lançamento,12/03/2026 01:34:33,2026-04-08
+957,Lifespace Sete de Setembro - Comercial,Curitiba,PR,Centro,Pronto novo,Pronto novo,30/07/2011,30/09/2014,476.0,499565.4,6170,80.97,80.97,0,0,0,0,0,0,28.0,17.0,1,Comercial,Invespark,Lançamento,11/03/2026 21:07:12,2026-04-08
+997,Workspace Emiliano,Curitiba,PR,Batel,Pronto novo,Pronto novo,30/12/2013,30/12/2016,147.0,2473605.0,11624,212.81,212.81,0,0,0,0,0,0,18.0,9.0,1,Comercial,Invespark,Lançamento,11/03/2026 21:04:28,2026-04-08
+23238,Hyde Park - Lojas,Curitiba,PR,Centro,Pronto novo,Pronto novo,01/08/2008,30/05/2012,10.0,670000.0,4370,153.32,153.32,0,0,0,0,0,0,1.0,10.0,1,Comercial,Invespark,Lançamento,11/03/2026 20:23:48,2026-04-08
+36783,Landhaus,Curitiba,PR,Ecoville,Pronto novo,Pronto novo,01/11/2022,30/09/2025,92.0,2962890.0,15301,193.54,321.69,3,3,3,3,4,4,12.0,4.0,23,Residencial,Plaenge PR,Lançamento,11/03/2026 16:13:00,2026-04-08
+71657,Zurich,Curitiba,PR,Bacacheri,Em construção,Em construção,01/06/2025,30/09/2027,53.0,248950.0,10469,23.43,54.52,1,1,0,0,0,1,6.0,11.0,41,Residencial,Alcance Engenharia,Lançamento,11/03/2026 15:13:31,2026-04-08
+80195,Firenze,Curitiba,PR,Seminário,Pronto novo,Pronto novo,,,,790000.0,9931,79.55,142.08,3,3,3,3,2,3,6.0,4.0,4,Residencial,Spazio Construtora,Lançamento,10/03/2026 10:59:43,2026-04-08
+80194,Napoli,Curitiba,PR,Portão,Em construção,Lançamento,,,,216000.0,11453,18.86,43.15,1,1,0,0,0,0,8.0,12.0,26,Residencial,Spazio Construtora,Lançamento,10/03/2026 10:59:43,2026-04-08
+80198,Nilo,Curitiba,PR,Bom Retiro,Em construção,Em construção,,,,225000.0,13620,16.52,22.99,1,1,0,0,0,0,4.0,9.0,5,Residencial,FWD Incorporadora,Lançamento,10/03/2026 10:59:14,2026-04-08
+74616,Aveon,Curitiba,PR,Alto da XV,Em construção,Em construção,01/06/2024,31/03/2026,17.0,351729.0,9181,38.31,52.31,1,1,0,0,0,0,2.0,9.0,3,Residencial,Calure,Lançamento,10/03/2026 09:33:03,2026-04-08
+61185,Piazza di Roma,Curitiba,PR,Água Verde,Em construção,Em construção,01/12/2024,28/12/2028,87.0,364915.5,12357,29.53,127.35,1,2,0,1,0,0,15.0,9.0,41,Residencial,Alô Incorp,Lançamento,10/03/2026 03:03:36,2026-04-08
+64409,Torre Ferrara,Curitiba,PR,Santa Cândida,Em construção,Em construção,01/09/2023,30/07/2026,134.0,477862.73,8776,47.72,57.94,2,3,1,1,1,2,9.0,16.0,18,Residencial,JCD Empreendimentos,Lançamento,10/03/2026 01:01:31,2026-04-08
+62411,Costa Ecoville,Curitiba,PR,Campo Comprido,Em construção,Em construção,01/08/2024,31/01/2027,40.0,601595.0,12965,46.11,148.1,1,3,0,1,1,2,5.0,8.0,10,Residencial,MB Costa Incorporadora,Lançamento,09/03/2026 20:09:07,2026-04-08
+35038,Plural,Curitiba,PR,Água Verde,Pronto novo,Pronto novo,01/09/2022,30/11/2025,46.0,455239.68,14819,30.72,145.78,1,3,0,2,0,2,9.0,8.0,11,Residencial,Construtora Pessoa,Lançamento,06/03/2026 11:19:26,2026-04-08
+37103,Lemme,Curitiba,PR,Água Verde,Em construção,Em construção,17/11/2022,30/03/2026,45.0,2567732.62,19065,134.68,312.49,2,3,2,3,2,3,8.0,6.0,9,Residencial,Bidese,Lançamento,05/03/2026 23:27:44,2026-04-08
+50108,Aurea 777,Curitiba,PR,Bigorrilho,Em construção,Em construção,01/11/2023,30/06/2026,18.0,2399000.0,17801,134.77,134.77,3,3,3,3,2,2,10.0,2.0,5,Residencial,Opera Prima,Lançamento,05/03/2026 23:08:54,2026-04-08
+19676,Edifício Greca Tower,Curitiba,PR,Água Verde,Em construção,Em construção,01/08/2023,27/10/2027,34.0,2750000.0,17697,155.39,317.25,3,4,3,4,2,4,23.0,2.0,11,Residencial,Bouw,Lançamento,05/03/2026 03:55:35,2026-04-08
+28611,Itá Rare Homes,Curitiba,PR,Juvevê,Em construção,Em construção,01/05/2022,31/03/2026,17.0,1309422.0,13617,96.16,156.95,2,3,2,3,2,3,6.0,3.0,13,Residencial,TM3 Incorporadora PR,Lançamento,04/03/2026 16:22:38,2026-04-08
+35952,Arte Acqua,Curitiba,PR,Água Verde,Pronto novo,Pronto novo,01/10/2022,02/06/2025,30.0,1188000.0,13207,89.95,170.51,2,3,1,2,2,3,8.0,4.0,2,Residencial,Artesa Construtora,Lançamento,04/03/2026 11:26:58,2026-04-08
+25522,Solenne,Curitiba,PR,Juvevê,Pronto novo,Pronto novo,20/09/2021,30/09/2024,72.0,1803045.0,15141,111.77,119.08,3,3,1,1,2,2,6.0,7.0,2,Residencial,Piemonte PR,Lançamento,04/03/2026 11:24:50,2026-04-08
+73076,Hagen Residencial,Curitiba,PR,Capão Raso,Em construção,Em construção,01/09/2025,30/09/2028,54.0,258720.0,10500,24.64,72.64,1,3,0,1,0,1,6.0,9.0,41,Residencial,USC Fernandes,Lançamento,04/03/2026 09:40:03,2026-04-08
+74103,Paros Residencial,Curitiba,PR,Alto Boqueirão,Pronto novo,Pronto novo,29/01/2026,30/01/2026,6.0,525300.0,5921,88.45,88.72,3,3,1,1,1,1,,,5,Residencial,USC Fernandes,Lançamento,04/03/2026 09:39:45,2026-04-08
+30752,Vila Unika,Curitiba,PR,Santa Felicidade,Pronto novo,Pronto novo,01/03/2023,30/09/2025,24.0,1624137.95,9718,160.57,175.12,3,3,3,3,2,2,,,16,Residencial,TM3 Incorporadora PR,Lançamento,04/03/2026 00:19:48,2026-04-08
+53143,Hike,Curitiba,PR,Boa Vista,Em construção,Em construção,25/06/2024,30/03/2027,45.0,699700.0,10917,64.09,181.68,2,3,1,1,1,2,8.0,6.0,17,Residencial,Auten,Lançamento,03/03/2026 20:13:31,2026-04-08
+51193,Dom Gabardo,Curitiba,PR,Capão Raso,Pronto novo,Pronto novo,02/10/2023,28/02/2025,22.0,495225.0,8297,59.69,98.99,2,3,1,1,1,1,5.0,5.0,5,Residencial,USC Fernandes,Lançamento,03/03/2026 19:21:23,2026-04-08
+73388,O2 Concept Mercês,Curitiba,PR,Mercês,Em construção,Em construção,21/07/2025,31/08/2027,56.0,345224.69,15235,22.66,35.0,1,1,0,0,0,1,9.0,8.0,21,Residencial,O2 Incorporadora,Lançamento,03/03/2026 12:36:10,2026-04-08
+74410,Plaenge Design by Pininfarina - Breve Lançamento,Curitiba,PR,Ecoville,Em construção,Lançamento,01/12/2025,31/12/2028,0.0,0.1,0,273.0,527.0,3,4,3,4,3,4,,,1,Residencial,Plaenge PR,Lançamento,03/10/2025 13:06:10,2026-04-08
+68719,Solare Essenza,Londrina,PR,Jardim Nova Esperança,Em construção,Em construção,30/05/2025,30/11/2028,440.0,213400.0,5958,35.82,35.82,2,2,0,0,1,1,10,4,224,Residencial,Pride,Lançamento,08/04/2026 10:57:45,2026-04-08
+76245,London Life,Londrina,PR,Cilo 3,Em construção,Lançamento,01/12/2025,30/05/2029,336.0,242300.18,6134,39.5,39.5,2,2,0,0,1,1,7,4,3,Residencial,Pride,Lançamento,08/04/2026 09:05:04,2026-04-08
+70223,Felicce,Londrina,PR,Vista Bela,Em construção,Em construção,01/06/2025,29/06/2028,392.0,224400.0,6265,35.82,48.99,2,2,0,0,1,1,7,4,187,Residencial,Pride,Lançamento,08/04/2026 08:45:03,2026-04-08
+77790,Solare Fiore - Fase 1,Londrina,PR,Nova Esperança,Em construção,Lançamento,01/12/2025,30/05/2029,400.0,209500.0,5849,35.82,35.82,2,2,0,0,1,1,10,4,1,Residencial,Pride,Lançamento,08/04/2026 08:31:35,2026-04-08
+65461,London Plaza,Londrina,PR,Cilo 3,Em construção,Em construção,01/11/2024,28/04/2028,392.0,242500.0,6139,39.5,39.5,2,2,0,0,1,1,7,4,127,Residencial,Pride,Lançamento,08/04/2026 08:16:19,2026-04-08
+65459,London Blue - Fase 2,Londrina,PR,Vista Bela,Pronto novo,Pronto novo,01/03/2023,28/03/2025,140.0,245000.0,5290,46.31,46.31,2,2,0,0,1,1,7,4,1,Residencial,Pride,Lançamento,08/04/2026 08:10:18,2026-04-08
+65417,Sonne,Londrina,PR,Cilo 3,Em construção,Em construção,01/07/2024,28/10/2027,364.0,219000.0,6114,35.82,35.82,2,2,0,0,1,1,7,4,1,Residencial,Pride,Lançamento,08/04/2026 08:04:21,2026-04-08
+69088,Porto Horizonte,Londrina,PR,Conjunto Habitacional Jamile Dequech,Em construção,Em construção,01/06/2024,30/06/2026,240.0,243778.0,5728,42.56,42.56,2,2,0,0,0,0,4,4,8,Residencial,Rottas Construtora,Lançamento,07/04/2026 00:14:48,2026-04-08
