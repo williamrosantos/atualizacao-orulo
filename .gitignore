@@ -1,0 +1,5 @@
+extracao.log
+*.xlsx
+__pycache__/
+*.pyc
+.env
