@@ -23,9 +23,15 @@ from pathlib import Path
 
 # ─── CONFIGURAÇÃO ─────────────────────────────────────────────────────────────
 # Credenciais lidas de variáveis de ambiente (GitHub Secrets)
-# Para rodar localmente, defina as variáveis no terminal ou no .env
-CLIENT_ID     = os.environ.get("ORULO_CLIENT_ID",     "ORULO_CLIENT_ID")
-CLIENT_SECRET = os.environ.get("ORULO_CLIENT_SECRET", "ORULO_CLIENT_SECRET")
+# Para rodar localmente: set ORULO_CLIENT_ID=... e set ORULO_CLIENT_SECRET=... no terminal
+CLIENT_ID     = os.environ.get("ORULO_CLIENT_ID")
+CLIENT_SECRET = os.environ.get("ORULO_CLIENT_SECRET")
+
+if not CLIENT_ID or not CLIENT_SECRET:
+    raise EnvironmentError(
+        "Credenciais não encontradas. Defina as variáveis de ambiente "
+        "ORULO_CLIENT_ID e ORULO_CLIENT_SECRET antes de rodar o script."
+    )
 
 BASE_URL = "https://www.orulo.com.br/api/v2"
 
