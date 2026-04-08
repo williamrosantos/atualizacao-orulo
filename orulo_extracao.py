@@ -149,10 +149,29 @@ def buscar_todas_paginas(token, state, city):
     return todos
 
 
+# ─── DETALHE INDIVIDUAL ───────────────────────────────────────────────────────
+def buscar_detalhe(token, building_id):
+    """Busca campos extras que só existem no endpoint de detalhe."""
+    try:
+        response = requests.get(
+            f"{BASE_URL}/buildings/{building_id}",
+            headers={"Authorization": f"Bearer {token}"},
+            timeout=30,
+        )
+        if response.status_code == 200:
+            return response.json()
+    except (requests.exceptions.Timeout, requests.exceptions.ConnectionError):
+        pass
+    return {}
+
+
 # ─── CONVERTER PARA DATAFRAME ─────────────────────────────────────────────────
-def buildings_para_df(buildings, city, state):
+def buildings_para_df(buildings, city, state, token):
     registros = []
-    for b in buildings:
+    total = len(buildings)
+    for i, b in enumerate(buildings, 1):
+        print(f"    Detalhando {i}/{total}...", end="\r")
+        detalhe = buscar_detalhe(token, b.get("id"))
         address = b.get("address") or {}
         registros.append({
             "id":                   b.get("id"),
@@ -162,6 +181,9 @@ def buildings_para_df(buildings, city, state):
             "bairro":               address.get("area"),
             "status":               b.get("status"),
             "fase":                 b.get("stage"),
+            "data_lancamento":      detalhe.get("launch_date"),
+            "data_entrega":         detalhe.get("opening_date"),
+            "total_unidades":       detalhe.get("total_units"),
             "preco_minimo":         b.get("min_price"),
             "preco_m2_privativo":   b.get("price_per_private_square_meter"),
             "area_minima_m2":       b.get("min_area"),
@@ -181,6 +203,7 @@ def buildings_para_df(buildings, city, state):
             "atualizado_em":        b.get("updated_at"),
             "data_extracao":        datetime.now().strftime("%Y-%m-%d"),
         })
+    print()
     return pd.DataFrame(registros)
 
 
@@ -211,7 +234,7 @@ def main():
 
         buildings = buscar_todas_paginas(token, state, city)
         if buildings:
-            df = buildings_para_df(buildings, city, state)
+            df = buildings_para_df(buildings, city, state, token)
             frames.append(df)
             total_registros += len(df)
             print(f"     ✅ {len(df)} registros coletados")
